@@ -2,7 +2,7 @@
 
 Materials and outlines for the Final Project for COGS108.
 
-Carefully read through all the details you'll need to know for your COGS108 Final Project [here](https://github.com/COGS108/Projects/blob/master/CapstoneProject.pdf)
+Carefully read through all the details you'll need to know for your COGS108 Final Project [here](https://docs.google.com/document/d/1fD0VjnmVwVp_zq2GvD8GzsMbNczH2DAA72t61aHmVB8/edit?usp=sharing)
 
 ## Project Schedule
 
