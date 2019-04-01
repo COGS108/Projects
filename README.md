@@ -7,11 +7,10 @@ Carefully read through all the details you'll need to know for your COGS108 Fina
 ## Project Schedule
 
 #### Project Proposal
-Due Sunday, April 28th @ 11:59 pm (Week 23)
+Due Sunday, April 28th @ 11:59 pm (Week 3)
 
 #### Final Project
-**B00 (12PM MWF lecture)**: Due Wednesday, June 12th @ 11:59 pm (Finals Week)  
-**A00 (2PM MWF lecture)**: Due Friday, June 14th @ 11:59 pm (Finals Week)
+Due Wednesday, June 12th @ 11:59 pm (Finals Week)  
 
 ## Project Templates
 
