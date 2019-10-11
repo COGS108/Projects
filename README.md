@@ -14,5 +14,5 @@ Due Thursday, December 12, 11:59 pm (Finals Week)
 
 ## Project Templates
 
-* [Proposal](https://docs.google.com/document/d/1_M0Zajd00s9r8RNFTWruqngJm0NTHawOqCMWib9C9ys/edit?usp=sharing)
+* [Proposal](https://github.com/COGS108/Projects/blob/master/COGS108%20Project%20Proposal.docx)
 * [Final Project](https://github.com/COGS108/Projects/blob/master/FinalProject.ipynb)
