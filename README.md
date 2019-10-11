@@ -7,7 +7,7 @@ Carefully read through all the details you'll need to know for your COGS108 Fina
 ## Project Schedule
 
 #### Project Proposal
-Due Sunday, October 20, 11:59 pm (Week 3)
+Due Sunday, October 27, 11:59 pm
 
 #### Final Project
 Due Thursday, December 12, 11:59 pm (Finals Week)
