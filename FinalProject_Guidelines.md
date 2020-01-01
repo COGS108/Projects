@@ -110,7 +110,7 @@ To check on your group's project, you will have to submit a final project check-
 
 ## Final Project 
 
-The main product of the project is a single Jupyter Notebook, submitted on GitHub. You can find the [template](https://github.com/COGS108/Projects/blob/master/FinalProject_group000.ipynb) on GitHub, in the [Projects directory](https://github.com/COGS108/Projects). You will be graded on the one group notebook submitted on GitHub in your group's project repo (which will be created for you).
+The main product of the project is a single Jupyter Notebook, submitted on GitHub. You can find the [template](https://github.com/COGS108/Projects/blob/master/FinalProject_group000.ipynb) on GitHub, in the [Projects directory](https://github.com/COGS108/Projects). You will be graded on the one group notebook submitted on GitHub in your group's project repo (which will be created for you). **Change the name of the file to include your group's group number. (For example, if you were in group 001, your file would be named 'FinalProject_group001.ipynb'.)**
 
 This single notebook should include all the code you used for all components of the project (cleaning, visualization, analysis). Because we won’t be running the code in your notebook, it is important to make sure your notebook as submitted to GitHub has the code evaluated and outputs present (e.g., plots) so that we can read the project as is.
 
