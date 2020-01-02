@@ -52,3 +52,12 @@
 [NotebookApp | INFO] Saving file at /FinalProject_group000.ipynb
 [NotebookApp | INFO] Saving file at /ProjectCheckIn.ipynb
 [NotebookApp | INFO] Saving file at /ProjectProposal.ipynb
+[NotebookApp | INFO] Starting buffering for 63420583-ac0f-4220-bae1-3480aee31d30:c70aa202ead24f4aba4b86ae74a948c3
+[NotebookApp | INFO] Kernel shutdown: 63420583-ac0f-4220-bae1-3480aee31d30
+[NotebookApp | INFO] Starting buffering for 0a039672-012a-4054-ba2f-b3f19cb6b8d9:94f700fa12ac480c8139c17f12f188ea
+[NotebookApp | INFO] Kernel shutdown: 0a039672-012a-4054-ba2f-b3f19cb6b8d9
+[NotebookApp | INFO] Starting buffering for 3610c2d2-c885-4f6e-8837-c9ee868e9e08:f2371fd0f14243bb880282ffcc4d50b5
+[NotebookApp | INFO] Kernel shutdown: 3610c2d2-c885-4f6e-8837-c9ee868e9e08
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels

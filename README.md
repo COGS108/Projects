@@ -79,5 +79,5 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Edit all text for clarity
 - [ ] Remove all instructions
 - [ ] Check to make sure all text and images are visible
-- [ ] Names and IDS included
+- [ ] Names and IDs included
 - [ ] Renamed file `FinalProject_group000.ipynb`, where '000' is replaced by your group's group number

@@ -31,6 +31,17 @@ The basic project steps:
 * Assemble a Jupyter notebook that communicates your hypothesis, methods, and results. Submit this as your final project.
 * Submit feedback about group and individual group members. This is done individually. 
 
+### Taboo topics
+
+While you are *encouraged* to pick a topic that helps our understanding of the world/society, you are free to pick *almost any* topic for your final project. That said, there are a few off-limit (or "taboo") topics. These topics are off-limits for three reasons: (1) these projects have been done a whole bunch of times on Kaggle already, which (2) limits the amount you can learn, and (3) makes these projects super boring to read and grade. We encourage you to pick a topic you care about, not one that is the easiest to find on the Internet. 
+
+The taboo topics in COGS 108 are:
+
+- movie recommendation system
+- youtube video comments / trending analysis
+
+If you think you have a novel idea and *really, really* want to work on one of these two topics, reach out to Prof Ellis, and she'll let you know if your idea will work.
+
 ## Getting Started 
 
 We strongly encourage you to discuss potential project ideas on Piazza, with your TAs and IAs, and/or with Prof. Ellis! This will give us a chance to make sure you’re on the right track even before you submit your draft. 
