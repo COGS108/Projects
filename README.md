@@ -8,6 +8,7 @@ Carefully read through all the details you'll need to know for your COGS108 Fina
 
 #### Project Proposal
 Due Friday, Jan 31, 11:59 PM
+Feedback: [Wi20](https://htmlpreview.github.io/?https://github.com/COGS108/Projects/blob/master/ProjectProposal.html)
 
 #### Project Check-In
 Due Friday, Feb 21, 11:59 PM
@@ -34,14 +35,14 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 
 **Research Question**:
 - [ ] Include a specific, clear data science question
-- [ ] Make sure what youâ€™re measuring (variables) to answer question is clear
+- [ ] Make sure what you'€™re measuring (variables) to answer question is clear
 
 **Background & Prior Work**:
 - [ ] Include explanation of what work has been done previously
 - [ ] Include citations or links to previous work
 
 **Hypothesis**:
-- [ ] Include your teamâ€™s hypothesis
+- [ ] Include your team€'s hypothesis
 - [ ] Ensure that this hypothesis is clear to readers
 - [ ] Explain why you think this will be the outcome (what was your thinking?)
 
