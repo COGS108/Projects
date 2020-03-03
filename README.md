@@ -11,7 +11,7 @@ Due Friday, Jan 31, 11:59 PM
 Proposal Feedback: [Wi20](https://htmlpreview.github.io/?https://github.com/COGS108/Projects/blob/master/ProjectProposal.html)
 
 #### Project Check-In
-Due Friday, Feb 21, 11:59 PM
+Due Friday, Feb 21, 11:59 PM  
 Check-in Feedback: [Wi20](https://htmlpreview.github.io/?https://github.com/COGS108/Projects/blob/master/ProjectCheckIn.html)
 
 #### Final Project
