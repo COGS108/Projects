@@ -8,10 +8,11 @@ Carefully read through all the details you'll need to know for your COGS108 Fina
 
 #### Project Proposal
 Due Friday, Jan 31, 11:59 PM  
-Feedback: [Wi20](https://htmlpreview.github.io/?https://github.com/COGS108/Projects/blob/master/ProjectProposal.html)
+Proposal Feedback: [Wi20](https://htmlpreview.github.io/?https://github.com/COGS108/Projects/blob/master/ProjectProposal.html)
 
 #### Project Check-In
 Due Friday, Feb 21, 11:59 PM
+Check-in Feedback: [Wi20](https://htmlpreview.github.io/?https://github.com/COGS108/Projects/blob/master/ProjectCheckIn.html)
 
 #### Final Project
 Due Thursday, Mar 19, 11:59 PM (Finals Week)
