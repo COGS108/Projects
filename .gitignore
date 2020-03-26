@@ -2,3 +2,5 @@
 .ipynb_checkpoints/*
 .nbgrader.log
 *.Rmd
+Archive/*
+.DS_Store

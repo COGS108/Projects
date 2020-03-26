@@ -2,27 +2,29 @@
 
 Materials and outlines for the Final Project for COGS108.
 
-Carefully read through all the details you'll need to know for your COGS108 Final Project [here](https://github.com/COGS108/Projects/blob/master/FinalProject_Guidelines.pdf)
+Carefully read through all the details you'll need to know for your COGS108 Final Project.
+
+- [Option 1: Group](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_Guidelines.md) (pdf [here](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_Guidelines.pdf))
+- [Option 2: Individual](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_Guidelines.md) (pdf [here](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_Guidelines.pdf))
+
 
 ## Project Schedule
 
 #### Project Proposal
-Due Friday, Jan 31, 11:59 PM  
-Proposal Feedback: [Wi20](https://htmlpreview.github.io/?https://github.com/COGS108/Projects/blob/master/ProjectProposal.html)
-
-#### Project Check-In
-Due Friday, Feb 21, 11:59 PM  
-Check-in Feedback: [Wi20](https://htmlpreview.github.io/?https://github.com/COGS108/Projects/blob/master/ProjectCheckIn.html)
+Due Friday, April 24 (11:59 PM)    
 
 #### Final Project
-Due Thursday, Mar 19, 11:59 PM (Finals Week)
+Due Wed, June 10 (11:59 PM) - Finals Week
 
 ## Project Templates
 
-* [Proposal](https://github.com/COGS108/Projects/blob/master/ProjectProposal.ipynb)
-* [Check-In](https://github.com/COGS108/Projects/blob/master/ProjectCheckIn.ipynb)
-* [Final Project](https://github.com/COGS108/Projects/blob/master/FinalProject_group000.ipynb)
+### Option 1: Group Project
+* [Proposal](https://github.com/COGS108/Projects/Option1_Group/blob/master/ProjectProposal.ipynb)
+* [Final Project](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_group000.ipynb)
 
+### Option 2: Individual Project
+* [Proposal](https://github.com/COGS108/Projects/Option2_Individual/blob/master/ProjectProposal.ipynb)
+* [Final Project](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_PID.ipynb)
 
 ## Final Project Checklist
 
@@ -82,4 +84,6 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Remove all instructions
 - [ ] Check to make sure all text and images are visible
 - [ ] Names and IDs included
-- [ ] Renamed file `FinalProject_group000.ipynb`, where '000' is replaced by your group's group number
+- [ ] Renamed file :
+	- Option 1: `FinalProject_groupXXX.ipynb`, where 'XXX' is replaced by your group's group number
+	- Option 2: `FinalProject_PID.ipynb`, where 'PID' is replaced by your student PID

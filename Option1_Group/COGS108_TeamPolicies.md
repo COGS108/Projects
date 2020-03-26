@@ -1,11 +1,6 @@
----
-output:
-  pdf_document: default
----
-
 # COGS108 TEAM POLICIES
 
-Your team will have a number of responsibilities for completion of the COGS108 group project. While there are only three deadlines - the project proposal, the project check-in, and the final project submission due on the date of your final - there is a lot that will have to be done for a successful project. Your project proposal will help set up a schedule with your teammates to make sure that you are all on the same page throughout the quarter.
+Your team will have a number of responsibilities for completion of the COGS 108 group project. While there are only three deadlines - the project proposal, the project check-in, and the final project submission due on the date of your final - there is a lot that will have to be done for a successful project. Your project proposal will help set up a schedule with your teammates to make sure that you are all on the same page throughout the quarter.
 
 Note, that while one member may contribute more to any specific portion of the project, all members should be contributing equally across the entire project submission. For example, one group member may find the datasets you’ll end up using in the project and will write the code to wrangle the dataset into the format you want. However, that person should NOT write all the code in the project. Another member would then contribute the draft of the code to visualize the data, while yet another member would edit and improve upon that code. This project is meant to be a collaborative. But, in a successful collaboration, all participants must carry their weight and contribute equally. 
 
