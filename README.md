@@ -38,7 +38,7 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 
 **Research Question**:
 - [ ] Include a specific, clear data science question
-- [ ] Make sure what you'€™re measuring (variables) to answer question is clear
+- [ ] Make sure what you'€re measuring (variables) to answer question is clear
 
 **Background & Prior Work**:
 - [ ] Include explanation of what work has been done previously
