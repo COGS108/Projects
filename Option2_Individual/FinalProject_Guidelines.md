@@ -17,7 +17,7 @@ The broad objectives for the project are to:
 * Interpret the results of the analyses. 
 * Contextualize those results within a greater scientific and social context, acknowledging and addressing any potential issues related to privacy and ethics. 
 
-You will work individually to accomplish this. You will have access to course materials and the Internet, but you will not be allowed to discuss this with other members in the class. You will have 48 hours to complete the final project.
+You will work individually to accomplish this. You will have access to course materials and the Internet, but you will not be allowed to discuss this with other members in the class. You will have 5 days to complete the final project.
 
 The basic project steps: 
 
@@ -150,6 +150,6 @@ The grading rubric for the Final Project is as follows:
 
 ### Timeline 
 
-Dataset and topic will be made available to students Monday evening. Students will have 48 hours to complete their individual final project. Final Jupyter notebook will be submited on GitHub.
+Dataset and topic will be made available to students Monday evening. Students will have 5 days to complete their individual final project. We do not anticipate it taking you 5 days straight; however, we know you'll have other finals to study for and take during this time. Final Jupyter notebook will be submited on GitHub.
 
 

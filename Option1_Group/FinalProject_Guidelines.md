@@ -231,7 +231,7 @@ As far as resources go, it is okay to ask other teams what they are doing in ter
 
 See Prof. Voytek’s write-up of excellent class projects from the Spring 2017 instance of COGS 108 [here](https://voyteklab.com/uc-san-diego-data-science-projects/), all of which received perfect scores. 
 
-Additionally, previous projects can be viewed from when this course ran in [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), or [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19). Note first, that these projects are of variable quality and second, that if you get inspiration or code from previous projects, this must be noted in your project, giving attribution to the former groups’ work. 
+Additionally, previous projects can be viewed from when this course ran in [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), or [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20). Note first, that these projects are of variable quality and second, that if you get inspiration or code from previous projects, this must be noted in your project, giving attribution to the former groups’ work. 
 
 ### How to Find Datasets 
 
