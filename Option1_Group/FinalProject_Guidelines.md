@@ -90,7 +90,7 @@ Note: For the project proposal, you do not have to find the actual dataset(s) ne
 
 **ETHICS & PRIVACY**: Acknowledge and address any ethics & privacy related issues of your question(s), proposed dataset(s), and/or analyses. Use the information provided in lecture to guide your group discussion and thinking. If you need further guidance, check out [Deon's Ethics Checklist](http://deon.drivendata.org/#data-science-ethics-checklist). In particular:
 
-* Did you have permission to use this data / use it for this purpose?
+* Do/will you have permission to use this data / use it for this purpose?
 * Are there privacy concerns regarding your datasets that you need to deal with, and/or terms of use that you need to comply with?
 * Are there potential biases in your dataset(s), in terms of who it composes, and how it was collected, that may be problematic in terms of it allowing for equitable analysis? (For example, does your data exclude particular populations, or is it likely to reflect particular human biases in a way that could be a problem?) 
 * Are there any other issues related to your topic area, data, and/or analyses that are potentially problematic in terms of data privacy and equitable impact?

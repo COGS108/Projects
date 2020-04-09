@@ -70,6 +70,14 @@ Note: For this project proposal, you do ***not*** have to find the actual datase
 * How will you handle issues you identified?
 (1-2 paragraphs)
 
+### Project Proposal - Topic
+
+**General Topic**: Health Inspections
+
+**Prompt**: Imagine you work for a local city government and want to improve the restaurant health inspection process for the city government.
+
+**Task**: Formulate a strong data science question (or set of questions) around this topic and carry out background research to better understand what others have done previously. Use the provided template, and inlcude this information in a strong Project Proposal.
+
 
 ### Project Proposal - Style Guidelines 
 
