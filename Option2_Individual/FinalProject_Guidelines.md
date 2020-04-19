@@ -158,6 +158,6 @@ The grading rubric for the Final Project is as follows:
 
 ### Timeline 
 
-Dataset and topic will be made available to students Monday evening. Students will have 5 days to complete their individual final project. We do not anticipate it taking you 5 days straight; however, we know you'll have other finals to study for and take during this time. Final Jupyter notebook will be submited on GitHub.
+Dataset and topic will be made available to students by Friday at 11:59 PM of Week 10. Students will have 5 days to complete their individual final project. We do not anticipate it taking you 5 days straight; however, we know you'll have other finals to study for and take during this time. Final Jupyter notebook will be submited on GitHub.
 
 
