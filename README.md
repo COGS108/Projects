@@ -34,6 +34,7 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 
 **Overview**:
 - [ ] Write a clear summary of what you did
+- [ ] Briefly describe results of your project 
 - [ ] Limit overview to 3-4 sentences
 
 **Research Question**:
@@ -41,6 +42,7 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Make sure what you're measuring (variables) to answer question is clear
 
 **Background & Prior Work**:
+- [ ] Include general introduction to your topic
 - [ ] Include explanation of what work has been done previously
 - [ ] Include citations or links to previous work
 
