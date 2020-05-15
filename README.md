@@ -4,8 +4,8 @@ Materials and outlines for the Final Project for COGS108.
 
 Carefully read through all the details you'll need to know for your COGS108 Final Project.
 
-- [Option 1: Group](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_Guidelines.md) (pdf [here](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_Guidelines.pdf))
-- [Option 2: Individual](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_Guidelines.md) (pdf [here](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_Guidelines.pdf))
+- [Option 1: Group](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_Guidelines.md) (pdf [here](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_Guidelines.pdf))
+- [Option 2: Individual](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_Guidelines.md) (pdf [here](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_Guidelines.pdf))
 
 
 ## Project Schedule
@@ -19,12 +19,12 @@ Due Wed, June 10 (11:59 PM) - Finals Week
 ## Project Templates
 
 ### Option 1: Group Project
-* [Proposal](https://github.com/COGS108/Projects/Option1_Group/blob/master/ProjectProposal.ipynb)
-* [Final Project](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_group00.ipynb)
+* [Proposal](https://github.com/COGS108/Projects/blob/master/Option1_Group/ProjectProposal_groupXX.ipynb)
+* [Final Project](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_groupXX.ipynb)
 
 ### Option 2: Individual Project
-* [Proposal](https://github.com/COGS108/Projects/Option2_Individual/blob/master/ProjectProposal.ipynb)
-* [Final Project](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_GH.ipynb)
+* [Proposal](https://github.com/COGS108/Projects/blob/master/Option2_Individual/ProjectProposal_PID.ipynb)
+* [Final Project](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_GH.ipynb)
 
 ## Final Project Checklist
 
@@ -85,5 +85,5 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Check to make sure all text and images are visible
 - [ ] Names and IDs included
 - [ ] Renamed file :
-	- Option 1: `FinalProject_groupXXX.ipynb`, where 'XXX' is replaced by your group's group number
-	- Option 2: `FinalProject_PID.ipynb`, where 'PID' is replaced by your student PID
+	- Option 1: `FinalProject_groupXX.ipynb`, where 'XX' is replaced by your group's group number
+	- Option 2: `FinalProject_GH.ipynb`, where 'GH' is replaced by your GitHub Username
