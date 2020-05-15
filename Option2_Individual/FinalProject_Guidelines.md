@@ -91,7 +91,7 @@ Remember to proofread your Project Proposal. Do not use overly flowery and/or va
 
 ## Final Project 
 
-The main product of the final project is a single Jupyter Notebook, submitted on GitHub. You can find the [template](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_PID.ipynb) on GitHub, in the [Projects directory](https://github.com/COGS108/Projects). You will be graded on the one notebook submitted on GitHub in the Individual submissions Group repo (to which you will be given access during the quarter). **Change the name of the file to include your PID. (For example, if your PID is A1234567, your file would be named 'FinalProject_A1234567.ipynb'.)**
+The main product of the final project is a single Jupyter Notebook, submitted on GitHub. You can find the [template](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_GH.ipynb) on GitHub, in the [Projects directory](https://github.com/COGS108/Projects). You will be graded on the one notebook submitted on GitHub in the Individual submissions Group repo (to which you will be given access during the quarter). **Change the name of the file to include your GitHub Username. (For example, if your GitHub Username is ShanEllis, your file would be named 'FinalProject_ShanEllis.ipynb'.)**
 
 This single notebook should include all the code you used for all components of the project (cleaning, visualization, analysis). Because we won’t be running the code in your notebook, it is important to make sure your notebook as submitted to GitHub has the code evaluated and outputs present (e.g., plots) so that we can read the project as is.
 
@@ -99,7 +99,7 @@ Submission must be successfully completed by 11:59 PM on the date of your final,
 
 ### Final Project Sections - Instructions
 
-Each of the following sections corresponds to a section in the [FinalProject_PID.ipynb](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_groupXXX.ipynb) Jupyter notebookfound on GitHub in the `Projects` directory. 
+Each of the following sections corresponds to a section in the [FinalProject_GH.ipynb](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_GH.ipynb) Jupyter notebookfound on GitHub in the `Projects` directory. 
 
 **OVERVIEW**: Include 3-4 sentences summarizing your project and results.
 

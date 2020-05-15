@@ -20,11 +20,11 @@ Due Wed, June 10 (11:59 PM) - Finals Week
 
 ### Option 1: Group Project
 * [Proposal](https://github.com/COGS108/Projects/Option1_Group/blob/master/ProjectProposal.ipynb)
-* [Final Project](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_group000.ipynb)
+* [Final Project](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_group00.ipynb)
 
 ### Option 2: Individual Project
 * [Proposal](https://github.com/COGS108/Projects/Option2_Individual/blob/master/ProjectProposal.ipynb)
-* [Final Project](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_PID.ipynb)
+* [Final Project](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_GH.ipynb)
 
 ## Final Project Checklist
 
