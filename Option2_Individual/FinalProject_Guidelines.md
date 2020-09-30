@@ -7,7 +7,7 @@ output:
 
 ## Project Overview 
 
-The COGS 108 Final Project (Individual Option) will give you the chance to carry out a common practice used in data science interviews - the take-home analysis. This will require you to formulate a question around a topic and dataset provided to you during Finals Week.
+The COGS 108 Final Project (Individual Option) will give you the chance to carry out a common practice used in data science interviews - the take-home analysis. This will require you to formulate a question around a topic and dataset provided to you during Week 10.
 
 The broad objectives for the project are to: 
 
@@ -35,13 +35,13 @@ The basic project steps:
 
 The Project Proposal is completed individually. For students who opt for the individual final project, a topic will be provided to you. Your proposal will have to be written on the specified topic.
 
-The Proposal template can be found [here](https://github.com/COGS108/Projects/Option2_Individual/blob/master/ProjectProposal.ipynb). 
+The Proposal template can be found [here](https://github.com/COGS108/Projects/blob/master/Option2_Individual/ProjectProposal_GH.ipynb). 
 
 Your proposal must include the following sections: 
 
-**NAME & ID**: Be sure to include your name and ID where it’s asked for in the project notebook
+**NAME & ID**: Be sure to include your name and GitHub ID where it’s asked for in the project notebook
 
-**RESEARCH QUESTION**: What is your research question? Include the specific question you'd set out to answer, given the topic. (1-2 sentences)
+**RESEARCH QUESTION**: What is your research question of interest based on the topic provided? Include the specific question you'd set out to answer, given the topic. (1-2 sentences)
 
 **BACKGROUND & PRIOR WORK**: Research and present background information and context of your topic and proposed question. Describe what information is currently known about the topic. Include references to other projects who have asked similar questions, approached similar problems, and/or have carried out work on the topic. Explain what others have learned in their projects.
 
@@ -72,11 +72,11 @@ Note: For this project proposal, you do ***not*** have to find the actual datase
 
 ### Project Proposal - Topic
 
-**General Topic**: Health Inspections
+**General Topic**: Parks & Recreation in San Diego
 
-**Prompt**: Imagine you work for a local city government and want to improve the restaurant health inspection process for the city government.
+**Prompt**: Imagine you work for the city of San Diego and it's up to you to audit the city's parks system and advise the city on what to do in the next five years. 
 
-**Task**: Formulate a strong data science question (or set of questions) around this topic and carry out background research to better understand what others have done previously. Use the provided template, and inlcude this information in a strong Project Proposal.
+**Task**: Formulate a strong data science question (or set of questions) around this topic and carry out background research to better understand what others have done previously. Use the provided template, and include this information in a strong Project Proposal.
 
 
 ### Project Proposal - Style Guidelines 
@@ -91,7 +91,7 @@ Remember to proofread your Project Proposal. Do not use overly flowery and/or va
 
 ## Final Project 
 
-The main product of the final project is a single Jupyter Notebook, submitted on GitHub. You can find the [template](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_GH.ipynb) on GitHub, in the [Projects directory](https://github.com/COGS108/Projects). You will be graded on the one notebook submitted on GitHub in the Individual submissions Group repo (to which you will be given access during the quarter). **Change the name of the file to include your GitHub Username. (For example, if your GitHub Username is ShanEllis, your file would be named 'FinalProject_ShanEllis.ipynb'.)**
+The main product of the final project is a single Jupyter Notebook, submitted on GitHub. You can find the [template](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_GH.ipynb) on GitHub, in the [Projects directory](https://github.com/COGS108/Projects). You will be graded on the one notebook submitted on GitHub in the Individual submissions Group repo (to which you will be given access during the quarter). **Change the name of the file to include your GitHub Username. (For example, if your GitHub Username is ShanEllis, your file would be named 'FinalProject_ShanEllis.ipynb'.)**
 
 This single notebook should include all the code you used for all components of the project (cleaning, visualization, analysis). Because we won’t be running the code in your notebook, it is important to make sure your notebook as submitted to GitHub has the code evaluated and outputs present (e.g., plots) so that we can read the project as is.
 
@@ -99,7 +99,7 @@ Submission must be successfully completed by 11:59 PM on the date of your final,
 
 ### Final Project Sections - Instructions
 
-Each of the following sections corresponds to a section in the [FinalProject_GH.ipynb](https://github.com/COGS108/Projects/Option2_Individual/blob/master/FinalProject_GH.ipynb) Jupyter notebookfound on GitHub in the `Projects` directory. 
+Each of the following sections corresponds to a section in the [FinalProject_GH.ipynb](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_GH.ipynb) Jupyter notebookfound on GitHub in the `Projects` directory. 
 
 **OVERVIEW**: Include 3-4 sentences summarizing your project and results.
 
@@ -158,6 +158,6 @@ The grading rubric for the Final Project is as follows:
 
 ### Timeline 
 
-Dataset and topic will be made available to students by Friday at 11:59 PM of Week 10. Students will have 5 days to complete their individual final project. We do not anticipate it taking you 5 days straight; however, we know you'll have other finals to study for and take during this time. Final Jupyter notebook will be submited on GitHub.
+Dataset and topic will be made available to students by Monday of Week 10. Students will have until the day of hte final to complete their individual final project. We do not anticipate it taking you all day every day over this time period; however, we know you'll have other finals to study for and take during this time. Final Jupyter notebook will be submited on GitHub.
 
 

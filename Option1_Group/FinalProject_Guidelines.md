@@ -126,7 +126,7 @@ Note: It is very important that you get right to work on the problem and don’t
 
 ## Final Project 
 
-The main product of the project is a single Jupyter Notebook, submitted on GitHub. You can find the [template](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_group000.ipynb) on GitHub, in the [Projects directory](https://github.com/COGS108/Projects). You will be graded on the one group notebook submitted on GitHub in your group's project repo (which will be created for you). **Change the name of the file to include your group's group number. (For example, if you were in group 001, your file would be named 'FinalProject_group001.ipynb'.)**
+The main product of the project is a single Jupyter Notebook, submitted on GitHub. You can find the [template](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_group000.ipynb) on GitHub, in the [Projects directory](https://github.com/COGS108/Projects). You will be graded on the one group notebook submitted on GitHub in your group's project repo (which will be created for you). **Change the name of the file to include your group's group number. (For example, if you were in group 01, your file would be named 'FinalProject_group01.ipynb'.)**
 
 This single notebook should include all the code you used for all components of the project (cleaning, visualization, analysis). Because we won’t be running the code in your notebook, it is important to make sure your notebook as submitted to GitHub has the code evaluated and outputs present (e.g., plots) so that we can read the project as is.
 
@@ -136,7 +136,7 @@ These notebooks will optionally be opened to the general public, so others may r
 
 ### Final Project Sections - Instructions
 
-Each of the following sections corresponds to a section in the [FinalProject_group000.ipynb](https://github.com/COGS108/Projects/Option1_Group/blob/master/FinalProject_groupXXX.ipynb) Jupyter notebookfound on GitHub in the `Projects` directory. 
+Each of the following sections corresponds to a section in the [FinalProject_group00.ipynb](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_groupXX.ipynb) Jupyter notebookfound on GitHub in the `Projects` directory. 
 
 For sections included in your proposal, you can copy and paste into your final project, but be sure to edit these sections with feedback you received on your proposal or additional information you learned throughout the project.
 
@@ -203,9 +203,8 @@ The grading rubric for the Final Project is as follows:
 To make sure we are all progressing well toward the end of the project, use the following timing guidelines as a way to help your team set deadlines: 
 
 **Week 1**: This document is released  
-**Week 2-3**: Groups are formed; Topic decided  
-**Week 4-5**: Project Proposal Due  
-**Week 6**: You have met in a group at least twice and have begun EDA.  
+**Week 2-3**: Groups are formed; Topic decided; Project Proposal Due  
+**Week 4-6**: You have met in a group at least twice and have begun EDA.  
 **Week 7-8**: Analysis should be underway  
 **Week 9**: Analysis is mostly complete; group has met ~3-4 times  
 **Week 10**: Project being edited; small improvements being made; Time is provided to work on projects in sections.   
@@ -231,7 +230,7 @@ As far as resources go, it is okay to ask other teams what they are doing in ter
 
 See Prof. Voytek’s write-up of excellent class projects from the Spring 2017 instance of COGS 108 [here](https://voyteklab.com/uc-san-diego-data-science-projects/), all of which received perfect scores. 
 
-Additionally, previous projects can be viewed from when this course ran in [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), or [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20). Note first, that these projects are of variable quality and second, that if you get inspiration or code from previous projects, this must be noted in your project, giving attribution to the former groups’ work. 
+Additionally, previous projects can be viewed from when this course ran in [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20), or [Spring 2020](https://github.com/COGS108/FinalProjects-Sp20). Note first, that these projects are of variable quality and second, that if you get inspiration or code from previous projects, this must be noted in your project, giving attribution to the former groups’ work. 
 
 ### How to Find Datasets 
 
