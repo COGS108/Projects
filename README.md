@@ -1,5 +1,5 @@
 # Projects 
-
+#Project
 Materials and outlines for the Final Project for COGS108.
 
 Carefully read through all the details you'll need to know for your COGS108 Final Project.
