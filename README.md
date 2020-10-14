@@ -11,7 +11,7 @@ Carefully read through all the details you'll need to know for your COGS108 Fina
 ## Project Schedule
 
 #### Project Proposal
-Due Friday, Oct 13 (11:59 PM)    
+Due Friday, Oct 23 (11:59 PM)    
 
 #### Final Project
 Due Wed, Dec 16 (11:59 PM) - Finals Week
@@ -23,7 +23,7 @@ Due Wed, Dec 16 (11:59 PM) - Finals Week
 * [Final Project](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_groupXX.ipynb)
 
 ### Option 2: Individual Project
-* [Proposal](https://github.com/COGS108/Projects/blob/master/Option2_Individual/ProjectProposal_PID.ipynb)
+* [Proposal](https://github.com/COGS108/Projects/blob/master/Option2_Individual/ProjectProposal_GH.ipynb)
 * [Final Project](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_GH.ipynb)
 
 ## Final Project Checklist
