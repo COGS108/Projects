@@ -34,15 +34,15 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 
 **Overview**:
 - [ ] Write a clear summary of what you did
-- [ ] Briefly describe results of your project 
+- [ ] Briefly describe the results of your project 
 - [ ] Limit overview to 3-4 sentences
 
 **Research Question**:
 - [ ] Include a specific, clear data science question
-- [ ] Make sure what you're measuring (variables) to answer question is clear
+- [ ] Make sure what you're measuring (variables) to answer the question is clear
 
 **Background & Prior Work**:
-- [ ] Include general introduction to your topic
+- [ ] Include a general introduction to your topic
 - [ ] Include explanation of what work has been done previously
 - [ ] Include citations or links to previous work
 
@@ -57,15 +57,21 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 
 ### Data Analysis:
 
+<<<<<<< HEAD
 **Data Cleaning & Pre-processing**:
 - [ ] Perform Data Cleaning and explain steps taken OR include explanation as to why data cleaning was unnecessary (how did you determine your dataset was ready to go)
 - [ ] Dataset is actually clean and usable after data wrangling steps carried out
+=======
+**Data Cleaning & Pre-processing**
+- [ ] Perform Data Cleaning and explain steps taken OR include an explanation as to why data cleaning was unnecessary (how did you determine your dataset was ready to go)
+- [ ] Dataset actually clean and usable after data wrangling steps carried out
+>>>>>>> 542161c7326dcf0862e28bf4adb1630bdfbc0ce5
 
 **Data Visualization**:
 - [ ] Include at least three visualizations
 - [ ] Clearly label all axes on plots
 - [ ] Type of all plots appropriate given data displayed
-- [ ] Interpretation of each visualization included in text
+- [ ] Interpretation of each visualization included in the text
 
 **Data Analysis & Results**:
 - [ ] EDA carried out with explanations of what was done and interpretations of output included
@@ -74,7 +80,7 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 
 ### Privacy/Ethics Considerations:
 - [ ] Thoughtful discussion of ethical concerns included
-- [ ] Ethical concerns consider the whole data science process (question asked, data collected, data being used, bias in data, analysis, post-analysis, etc.)
+- [ ] Ethical concerns consider the whole data science process (question asked, data collected, data being used, the bias in data, analysis, post-analysis, etc.)
 
 ### Conclusion & Discussion:
 - [ ] Clear conclusion (answer to the question being asked) and discussion of results
