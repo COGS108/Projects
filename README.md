@@ -8,15 +8,15 @@ Carefully read through all the details you'll need to know for your COGS108 Fina
 - [Option 2: Individual](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_Guidelines.md) (pdf [here](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_Guidelines.pdf))
 
 
-## Project Schedule
+## Project Schedule/time
 
 #### Project Proposal
 Due Friday, Oct 23 (11:59 PM)    
 
-#### Final Project
+#### Final/major Project
 Due Wed, Dec 16 (11:59 PM) - Finals Week
 
-## Project Templates
+## Project Templates/styles
 
 ### Option 1: Group Project
 * [Proposal](https://github.com/COGS108/Projects/blob/master/Option1_Group/ProjectProposal_groupXX.ipynb)
