@@ -56,7 +56,7 @@ We strongly encourage you to discuss potential project ideas on Piazza, with you
 
 ## The Project Proposal 
 
-The Project Proposal is completed as a group. The Proposal template can be found [here](https://github.com/COGS108/Projects/blob/master/Option1_Group/ProjectProposal_groupXX.ipynb). Your proposal must include the following sections: 
+The Project Proposal is completed as a group. The Proposal template can be found [here](https://github.com/COGS108/Projects/blob/master/Option1_Group/ProjectProposal_groupXXX.ipynb). Your proposal must include the following sections: 
 
 **NAMES & IDs**: Be sure to include each member’s name and ID where it’s asked for in the project notebook
 
@@ -136,7 +136,7 @@ These notebooks will optionally be opened to the general public, so others may r
 
 ### Final Project Sections - Instructions
 
-Each of the following sections corresponds to a section in the [FinalProject_group00.ipynb](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_groupXX.ipynb) Jupyter notebookfound on GitHub in the `Projects` directory. 
+Each of the following sections corresponds to a section in the [FinalProject_group00.ipynb](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_groupXXX.ipynb) Jupyter notebookfound on GitHub in the `Projects` directory. 
 
 For sections included in your proposal, you can copy and paste into your final project, but be sure to edit these sections with feedback you received on your proposal or additional information you learned throughout the project.
 

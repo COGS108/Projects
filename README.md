@@ -1,3 +1,7 @@
+---
+output:
+  pdf_document: default
+---
 # Projects 
 
 Materials and outlines for the Final Project for COGS108.
@@ -19,8 +23,8 @@ Due Wed, Dec 16 (11:59 PM) - Finals Week
 ## Project Templates
 
 ### Option 1: Group Project
-* [Proposal](https://github.com/COGS108/Projects/blob/master/Option1_Group/ProjectProposal_groupXX.ipynb)
-* [Final Project](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_groupXX.ipynb)
+* [Proposal](https://github.com/COGS108/Projects/blob/master/Option1_Group/ProjectProposal_groupXXX.ipynb)
+* [Final Project](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_groupXXX.ipynb)
 
 ### Option 2: Individual Project
 * [Proposal](https://github.com/COGS108/Projects/blob/master/Option2_Individual/ProjectProposal_GH.ipynb)
@@ -93,5 +97,5 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Check to make sure all text and images are visible
 - [ ] Names and IDs included
 - [ ] Renamed file :
-	- Option 1: `FinalProject_groupXX.ipynb`, where 'XX' is replaced by your group's group number
+	- Option 1: `FinalProject_groupXXX.ipynb`, where 'XXX' is replaced by your group's group number
 	- Option 2: `FinalProject_GH.ipynb`, where 'GH' is replaced by your GitHub Username
