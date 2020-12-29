@@ -1,7 +1,7 @@
 
 # COGS 108 - Final Project
 
-** Table of Contents**
+**Table of Contents**
 
 - [Project Overview](#Project-Overview)
   * [Taboo Topics](#Taboo-Topics)
