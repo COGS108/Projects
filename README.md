@@ -1,34 +1,18 @@
----
-output:
-  pdf_document: default
----
 # Projects 
 
-Materials and outlines for the Final Project for COGS108.
+Materials for the Project in COGS108.
 
-Carefully read through all the details you'll need to know for your COGS108 Final Project.
+## Project Documentation 
 
-- [Option 1: Group](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_Guidelines.md) (pdf [here](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_Guidelines.pdf))
-- [Option 2: Individual](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_Guidelines.md) (pdf [here](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_Guidelines.pdf))
-
-
-## Project Schedule
-
-#### Project Proposal
-Due Friday, Oct 23 (11:59 PM)    
-
-#### Final Project
-Due Wed, Dec 16 (11:59 PM) - Finals Week
+* [Project Guidelines](https://github.com/COGS108/Projects/blob/master/FinalProject_Guidelines.md)
+* [Team Policies](https://github.com/COGS108/Projects/blob/master/COGS108_TeamPolicies.md)
 
 ## Project Templates
 
-### Option 1: Group Project
-* [Proposal](https://github.com/COGS108/Projects/blob/master/Option1_Group/ProjectProposal_groupXXX.ipynb)
-* [Final Project](https://github.com/COGS108/Projects/blob/master/Option1_Group/FinalProject_groupXXX.ipynb)
-
-### Option 2: Individual Project
-* [Proposal](https://github.com/COGS108/Projects/blob/master/Option2_Individual/ProjectProposal_GH.ipynb)
-* [Final Project](https://github.com/COGS108/Projects/blob/master/Option2_Individual/FinalProject_GH.ipynb)
+* [Proposal](https://github.com/COGS108/Projects/blob/master/ProjectProposal_groupXXX.ipynb)
+* [Checkpoint #1: Data](https://github.com/COGS108/Projects/blob/master/DataCheckpoint_groupXXX.ipynb)
+* [Checkpoint #2: EDA](https://github.com/COGS108/Projects/blob/master/EDACheckpoint_groupXXX.ipynb)
+* [Final Project](https://github.com/COGS108/Projects/blob/master/FinalProject_groupXXX.ipynb)
 
 ## Final Project Checklist
 
@@ -61,15 +45,9 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 
 ### Data Analysis:
 
-<<<<<<< HEAD
-**Data Cleaning & Pre-processing**:
-- [ ] Perform Data Cleaning and explain steps taken OR include explanation as to why data cleaning was unnecessary (how did you determine your dataset was ready to go)
-- [ ] Dataset is actually clean and usable after data wrangling steps carried out
-=======
 **Data Cleaning & Pre-processing**
-- [ ] Perform Data Cleaning and explain steps taken OR include an explanation as to why data cleaning was unnecessary (how did you determine your dataset was ready to go)
+- [ ] Perform Data Cleaning and explain steps taken OR include an explanation as to why data cleaning was unnecessary (how did you determine your dataset was ready to go?)
 - [ ] Dataset actually clean and usable after data wrangling steps carried out
->>>>>>> 542161c7326dcf0862e28bf4adb1630bdfbc0ce5
 
 **Data Visualization**:
 - [ ] Include at least three visualizations
@@ -85,17 +63,24 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 ### Privacy/Ethics Considerations:
 - [ ] Thoughtful discussion of ethical concerns included
 - [ ] Ethical concerns consider the whole data science process (question asked, data collected, data being used, the bias in data, analysis, post-analysis, etc.)
+- [ ] How your group handled bias/ethical concerns clearly described
 
 ### Conclusion & Discussion:
 - [ ] Clear conclusion (answer to the question being asked) and discussion of results
 - [ ] Limitations of analysis discussed
 - [ ] Does not ramble on beyond providing necessary information
 
+### Video:
+- [ ] Question asked is clear to listeners
+- [ ] Effective visualizations presented
+- [ ] Clear explanations throughout
+- [ ] Take home message clear
+- [ ] Within 3-5 min time limit
+
 ### Final Checks:
 - [ ] Edit all text for clarity
 - [ ] Remove all instructions
+- [ ] Be sure text included throughout to guide reader
 - [ ] Check to make sure all text and images are visible
-- [ ] Names and IDs included
-- [ ] Renamed file :
-	- Option 1: `FinalProject_groupXXX.ipynb`, where 'XXX' is replaced by your group's group number
-	- Option 2: `FinalProject_GH.ipynb`, where 'GH' is replaced by your GitHub Username
+- [ ] Names included
+- [ ] Renamed file : `FinalProject_groupXXX.ipynb`, where 'XXX' is replaced by your group's group number
