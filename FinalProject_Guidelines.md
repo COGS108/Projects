@@ -1,9 +1,23 @@
 
 # COGS 108 - Final Project
 
+** Table of Contents**
+
+- [Project Overview](#Project-Overview)
+  * [Taboo Topics](#Taboo-Topics)
 - [Project Components](#Project-Components)
-  * [Group Project Survey](#group-project-survey)
-  
+  * [Group Project Survey](#Group-Project-Survey)
+  * [Previous Project Review](#Previous-Project-Review)
+  * [Project Proposal](#Project-Proposal)
+  * [Checkpoints](#Checkpoints)
+  * [Final Project](#Final-Project)
+  * [Team Evaluation](#Team-Evaluation)
+- [Advice](#Advice)
+- [Previous COGS 108 Final Projects](Previous-COGS-108-Final-Projects) 
+- [How to Find Datasets](#How-to-Find-Datasets)
+
+<!-- toc -->
+
 ## Project Overview 
 
 The COGS 108 Final Project will give you the chance to explore a topic of your choice and to expand your analytical skills. By working with real data of your choosing you can examine questions of particular interest to you. 
@@ -27,6 +41,9 @@ The basic project steps (broken down in more detail below):
 * Assemble a Jupyter notebook that communicates your hypothesis, methods, and results. Submit this as your final project.
 * Submit feedback about group and individual group members. This is done individually. 
 
+We strongly encourage you to discuss potential project ideas with your TAs and IAs, and/or with Prof. Ellis! This will give us a chance to make sure you’re on the right track even before you submit your draft. 
+
+
 ### Taboo topics
 
 While you are *encouraged* to pick a topic that helps our understanding of the world/society, you are free to pick *almost any* topic for your final project. That said, there are a few off-limit (or "taboo") topics. These topics are off-limits for three reasons: (1) these projects have been done a whole bunch of times on Kaggle already, which (2) limits the amount you can learn, and (3) makes these projects super boring to read and grade. We encourage you to pick a topic you care about, not one that is the easiest to find on the Internet. 
@@ -47,12 +64,6 @@ The following datasets from kaggle are also off limits as your main dataset*:
   - [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset)
   
 \*If you use any of these to *support* your main analysis, that is fine. But, it cannot be your main source of information.
-
-<!-- toc -->
-
-## Getting Started 
-
-We strongly encourage you to discuss potential project ideas on Piazza, with your TAs and IAs, and/or with Prof. Ellis! This will give us a chance to make sure you’re on the right track even before you submit your draft. 
 
 ## Project Components 
 
@@ -124,7 +135,7 @@ You will receive feedback on your project proposal, and you are fully expected t
 
 Remember to proofread your Project Proposal. Do not use overly flowery and/or vague language. 
 
-### After the Proposal: Checkpoints (aka working on the problem) 
+### Checkpoints 
 
 Once you’ve settled on a problem and approach, it's time to actually find and analyze the data! 
 
@@ -225,13 +236,13 @@ For sections included in your proposal and previous checkpoints, you can copy an
 **CONCLUSION & DISCUSSION**: Discuss your project. Summarize your data and question. Briefly describe your analysis. Summarize your results and conclusions. Be sure to mention any limitations of your project. Discuss the impact of this work on society. (~2-3 paragraphs)
 
 
-#### Video - Instructions
+#### Video
 
 Each group will submit a single 3-5 minute video on canvas communicating their group's final project. Only one member of each group will submit the video on Canvas, but the grade received will apply to everyone. This video will have to incorporate the visualization and effective communication strategies discussed in class. However, this can be creative. It is up to the group to decide how to most effectively communicate their project and results. 
 
 All group members must participate in the completion of the video submitted; however, not everyone has to be on screen or talk in the video. How you delegate tasks here is up to the group. 
 
-### Grading 
+#### Grading 
 
 Your final project report and video will be graded based on the rubric below. For the report, make sure you address each rubric section in the notebook, in an organized manner, using Markdown cells for textual descriptions. Note that you *can* add subsections or change up the organization, if your project would be clearer with you doing so.
 
@@ -255,11 +266,11 @@ The grading rubric for the Final Project is as follows:
 
 Each individual will submit a short survey providing feedback about their experience with the COGS 108 project and working with their team. Prof. Ellis will be the only person to see this feedback and will use this information when deciding individual grades. 
 
-## Timeline 
+### Timeline 
 
 To make sure we are all progressing well toward the end of the project, we are implementing checkpoints this quarter and requiring that your proposal includes a detailed timeline of dates/times for meetings that work for your group.
 
-### Advice 
+## Advice 
 
 The main pieces of advice are: 
 
