@@ -13,7 +13,7 @@
   * [Final Project](#Final-Project)
   * [Team Evaluation](#Team-Evaluation)
 - [Advice](#Advice)
-- [Previous COGS 108 Final Projects](Previous-COGS-108-Final-Projects) 
+- [Previous COGS 108 Final Projects](#Previous-COGS-108-Final-Projects) 
 - [How to Find Datasets](#How-to-Find-Datasets)
 
 <!-- toc -->
@@ -52,6 +52,8 @@ The taboo topics in COGS 108 are:
 
 - movie recommendation system
 - youtube video comments / trending analysis
+- Kickstarter success prediction/analysis
+- prediction of what makes a song popular on Spotify 
 
 If you think you have a novel idea and *really, really* want to work on any of these  topics, reach out to Prof Ellis, and she'll let you know if your idea will work.
 
@@ -62,6 +64,7 @@ The following datasets from kaggle are also off limits as your main dataset*:
   - [Spotify Song Attributes](https://www.kaggle.com/geomack/spotifyclassification)
   - [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
   - [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset)
+  - [Student Alcohol Consumption](https://www.kaggle.com/uciml/student-alcohol-consumption)
   
 \*If you use any of these to *support* your main analysis, that is fine. But, it cannot be your main source of information.
 
