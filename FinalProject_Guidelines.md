@@ -78,12 +78,12 @@ Each group will submit one Google Form Survey indicating who is in their group, 
 
 Each group will submit one Google Form Survey reviewing a project from a previous quarter. This will give you a sense of what we're expecting from the project and will give you all a chance to determine what components make for a strong project and where you would have improved the project, so that you can implement these improvements in your project.
 
-You will select one project from a previous iteration of the course (it can be at random!): [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20), [Spring 2020](https://github.com/COGS108/FinalProjects-Sp20) or [Fall 2020](https://github.com/COGS108/FinalProjects-Fa20). 
+You will be assigned a project from a previous iteration of the course to review as a group.
 
 
 ### Project Proposal 
 
-The Project Proposal is completed as a group. The Proposal template can be found [here](https://github.com/COGS108/Projects/blob/master/ProjectProposal_groupXXX.ipynb). Your proposal must include the following sections: 
+The Project Proposal is completed as a group. Your proposal must include the following sections: 
 
 **NAMES**: Be sure to include each member’s name
 
@@ -146,7 +146,7 @@ Note: It is very important that you get right to work on the problem and don’t
 
 #### Checkpoint #1: Data 
 
-The checkpoint template can be found [here](https://github.com/COGS108/Projects/blob/master/DataCheckpoint_groupXXX.ipynb). Your first checkpoint must include the following sections (Note that these *can* be the same as in your proposal; however, if you've made any changes/edits/incorporated feedback, you should update them): 
+Your first checkpoint must include the following sections (Note that these *can* be the same as in your proposal; however, if you've made any changes/edits/incorporated feedback, you should update them): 
 
 **NAMES**: Same as proposal.
 
@@ -164,7 +164,7 @@ The checkpoint template can be found [here](https://github.com/COGS108/Projects/
 
 #### Checkpoint #2: EDA
 
-The Checkpoint template can be found [here](https://github.com/COGS108/Projects/blob/master/EDACheckpoint_groupXXX.ipynb). Your second checkpoint must include the following sections (Note that these *can* be the same as in your proposal/checkpoint #1; however, if you've made any changes/edits/incorporated feedback, you should update them): 
+Your second checkpoint must include the following sections (Note that these *can* be the same as in your proposal/checkpoint #1; however, if you've made any changes/edits/incorporated feedback, you should update them): 
 
 **NAMES**: Same as proposal.
 
@@ -188,7 +188,7 @@ Time to put it all together! The main products of the final project are 1) a rep
 
 #### Final Report 
 
-For the report, you can find the [template](https://github.com/COGS108/Projects/blob/master/FinalProject_groupXXX.ipynb) on GitHub, in the [Projects directory](https://github.com/COGS108/Projects). You will be graded on the one group notebook submitted on GitHub in your group's project repo (which will be created for you). **Change the name of the file to include your group's group number. (For example, if you were in group 001, your file would be named 'FinalProject_group001.ipynb'.)**
+You will be graded on the one group notebook submitted on GitHub in your group's project repo (which will be created for you). **Change the name of the file to include your group's group number. (For example, if you were in group 001, your file would be named 'FinalProject_group001.ipynb'.)**
 
 This single notebook should include all the code you used for all components of the project (cleaning, visualization, analysis). Because we won’t be running the code in your notebook, it is important to make sure your notebook as submitted to GitHub has the code evaluated and outputs present (e.g., plots) so that we can read the project as is.
 
@@ -292,7 +292,7 @@ As far as resources go, it is okay to ask other teams what they are doing in ter
 
 See Prof. Voytek’s write-up of excellent class projects from the Spring 2017 instance of COGS 108 [here](https://voyteklab.com/uc-san-diego-data-science-projects/), all of which received perfect scores. 
 
-Additionally, previous projects can be viewed from when this course ran in [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20), [Spring 2020](https://github.com/COGS108/FinalProjects-Sp20) or [Fall 2020](https://github.com/COGS108/FinalProjects-Fa20). Note first, that these projects are of variable quality and second, that if you get inspiration or code from previous projects, this must be noted in your project, giving attribution to the former groups’ work. 
+Additionally, previous projects can be viewed from when this course ran in [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20), [Spring 2020](https://github.com/COGS108/FinalProjects-Sp20), [Fall 2020](https://github.com/COGS108/FinalProjects-Fa20), or [Winter 2021](https://github.com/COGS108/FinalProjects-Wi21). Note first, that these projects are of variable quality and second, that if you get inspiration or code from previous projects, this must be noted in your project, giving attribution to the former groups’ work. 
 
 ## How to Find Datasets 
 
