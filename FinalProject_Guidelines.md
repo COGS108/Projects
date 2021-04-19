@@ -31,7 +31,7 @@ The broad objectives for the project are to:
 * Contextualize those results within a greater scientific and social context, acknowledging and addressing any potential issues related to privacy and ethics. 
 * Work effectively to manage a project as part of a team. 
 
-To accomplish this you will work in teams of 4 to 5 students to conceive of and carry out an analysis project. You will find in your future careers the need to work on projects in groups frequently (even if you really, really, really, really don’t want to). 
+To accomplish this you will work in teams of 4 to 5 students to conceive of and carry out an analysis project. You will find in your future careers the need to work on projects in groupcs frequently (even if you really, really, really, really don’t want to). 
 
 The basic project steps (broken down in more detail below): 
 
@@ -188,7 +188,7 @@ Time to put it all together! The main products of the final project are 1) a rep
 
 #### Final Report 
 
-You will be graded on the one group notebook submitted on GitHub in your group's project repo (which will be created for you). **Change the name of the file to include your group's group number. (For example, if you were in group 001, your file would be named 'FinalProject_group001.ipynb'.)**
+You will be graded on the one group notebook submitted on GitHub in your group's project repo (which will be created for you). **The name of the file should include your group's group number. (For example, if you were in group 001, your file would be named 'FinalProject_group001.ipynb'.)**
 
 This single notebook should include all the code you used for all components of the project (cleaning, visualization, analysis). Because we won’t be running the code in your notebook, it is important to make sure your notebook as submitted to GitHub has the code evaluated and outputs present (e.g., plots) so that we can read the project as is.
 
@@ -198,7 +198,7 @@ These notebooks will optionally be opened to the general public, so others may r
 
 #### Report Sections - Instructions
 
-Each of the following sections corresponds to a section in the [FinalProject_groupXXX.ipynb](https://github.com/COGS108/Projects/blob/master/FinalProject_groupXXX.ipynb) Jupyter notebookfound on GitHub in the `Projects` directory. 
+Each of the following sections corresponds to a section in the file FinalProject_groupXXX.ipynb (template is in your group's GitHub repo). 
 
 For sections included in your proposal and previous checkpoints, you can copy and paste into your final project, but be sure to edit these sections with feedback you received on your proposal or additional information you learned throughout the project. This report should read clearly from start to finish, explaining what you did, why you did it, and what you learned. This should be a concise and well-written report.
 

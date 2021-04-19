@@ -9,10 +9,12 @@ Materials for the Project in COGS108.
 
 ## Project Templates
 
-* [Proposal](https://github.com/COGS108/Projects/blob/master/ProjectProposal_groupXXX.ipynb)
-* [Checkpoint #1: Data](https://github.com/COGS108/Projects/blob/master/DataCheckpoint_groupXXX.ipynb)
-* [Checkpoint #2: EDA](https://github.com/COGS108/Projects/blob/master/EDACheckpoint_groupXXX.ipynb)
-* [Final Project](https://github.com/COGS108/Projects/blob/master/FinalProject_groupXXX.ipynb)
+Templates have been provided in your group's project repo.
+
+* Proposal: ProjectProposal_groupXXX.ipynb
+* Checkpoint #1: DataCheckpoint_groupXXX.ipynb
+* Checkpoint #2: EDACheckpoint_groupXXX.ipynb
+* Final Report: FinalProject_groupXXX.ipynb
 
 ## Final Project Checklist
 
