@@ -86,3 +86,9 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Check to make sure all text and images are visible
 - [ ] Names included
 - [ ] Renamed file : `FinalProject_groupXXX.ipynb`, where 'XXX' is replaced by your group's group number
+
+
+---
+## License 
+
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
