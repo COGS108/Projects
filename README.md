@@ -87,6 +87,10 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Names included
 - [ ] Renamed file : `FinalProject_groupXXX.ipynb`, where 'XXX' is replaced by your group's group number
 
+### After the course is done:
+- If you checked YES to make project public: the final project notebook (and only that!) will be placed in a repo with the rest of this quarters public reports. This helps future students by providing examples!
+- Your projct repo will remain available to you in the near future. We cannot guarentee that will always be the case. That repo will never be public.
+- If you would like your own copy of the entire repo you should follow these instructions: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository Once you have done that it is yours forever. You will also be able to control access to the mirror (make it public or private as you would prefer) 
 
 ---
 ## License 
