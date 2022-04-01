@@ -31,7 +31,7 @@ The broad objectives for the project are to:
 * Contextualize those results within a greater scientific and social context, acknowledging and addressing any potential issues related to privacy and ethics. 
 * Work effectively to manage a project as part of a team. 
 
-To accomplish this you will work in teams of 4 to 5 students to conceive of and carry out an analysis project. You will find in your future careers the need to work on projects in groupcs frequently (even if you really, really, really, really don’t want to). 
+To accomplish this you will work in teams of 4 to 5 students to conceive of and carry out an analysis project. You will find in your future careers the need to work on projects in groupcs frequently. 
 
 The basic project steps (broken down in more detail below): 
 
@@ -41,7 +41,7 @@ The basic project steps (broken down in more detail below):
 * Assemble a Jupyter notebook that communicates your hypothesis, methods, and results. Submit this as your final project.
 * Submit feedback about group and individual group members. This is done individually. 
 
-We strongly encourage you to discuss potential project ideas with your TAs and IAs, and/or with Prof. Ellis! This will give us a chance to make sure you’re on the right track even before you submit your draft. 
+We strongly encourage you to discuss potential project ideas with your TAs and IAs, and/or with the profesoor. This will give us a chance to make sure you’re on the right track even before you submit your draft. 
 
 
 ### Taboo topics
@@ -55,18 +55,11 @@ The taboo topics in COGS 108 are:
 - Kickstarter success prediction/analysis
 - prediction of what makes a song popular on Spotify 
 
-If you think you have a novel idea and *really, really* want to work on any of these  topics, reach out to Prof Ellis, and she'll let you know if your idea will work.
+In addition, if a dataset is on the first few pages of Kaggle's dataset list (when sorted for either hotness or number of votes) then try to find something else.
 
-The following datasets from kaggle are also off limits as your main dataset*:
-
-  - [Trending Youtube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
-  - [120 Years of Olympic history: athletes and results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
-  - [Spotify Song Attributes](https://www.kaggle.com/geomack/spotifyclassification)
-  - [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
-  - [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset)
-  - [Student Alcohol Consumption](https://www.kaggle.com/uciml/student-alcohol-consumption)
+If you think you have a novel idea and *really, really* want to work on one of these topics/datasets, then please reach out to the instruction team and we will let you know if your idea will work.
   
-\*If you use any of these to *support* your main analysis, that is fine. But, it cannot be your main source of information.
+If you use any of these to *support* your main analysis, that is fine. But, it cannot be your main source of information.
 
 ## Project Components 
 
@@ -267,7 +260,7 @@ The grading rubric for the Final Project is as follows:
 
 ### Team Evaluation
 
-Each individual will submit a short survey providing feedback about their experience with the COGS 108 project and working with their team. Prof. Ellis will be the only person to see this feedback and will use this information when deciding individual grades. 
+Each individual will submit a short survey providing feedback about their experience with the COGS 108 project and working with their team.  The professor will be the only person to see this feedback and will use this information when deciding individual grades. 
 
 ### Timeline 
 
@@ -282,7 +275,7 @@ The main pieces of advice are:
 * Be a good teammate 
 * Work as a team 
 * Seek advice when you are unsure, and see it early and often! 
-* Talk to your TAs, IAs, and Prof. Ellis - we’re here to help! 
+* Talk to your TAs, IAs, and professor - we’re here to help! 
 * Choose a general interest domain and question of interest, and then choose a dataset, not vice versa. I promise it will go much better. 
 * Start early!!!!! 
 
@@ -298,7 +291,7 @@ Additionally, previous projects can be viewed from when this course ran in [Spri
 
 The purpose of this project is to find a real-world problem and dataset (or likely, datasets!) that can be analyzed with the techniques learned in class and those you learn on your own. It is imperative that by doing so you believe extra information will be gained — that you believe you can discover something new!
 
-You must use at least one dataset containing at least approximately 1000 observations (if your data are smaller but you feel they are sufficient, chat with Prof. Ellis). You are welcome (and in fact recommended) to find multiple datasets! 
+You must use at least one dataset containing at least approximately 1000 observations (if your data are smaller but you feel they are sufficient, chat with the professor). You are welcome (and in fact recommended) to find multiple datasets! 
 
 The best datasets are the ones that can help you answer your question of interest. 
 
