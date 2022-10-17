@@ -11,10 +11,10 @@ Materials for the Project in COGS108.
 
 Templates have been provided in your group's project repo.
 
-* Proposal: ProjectProposal_groupXXX.ipynb
-* Checkpoint #1: DataCheckpoint_groupXXX.ipynb
-* Checkpoint #2: EDACheckpoint_groupXXX.ipynb
-* Final Report: FinalProject_groupXXX.ipynb
+* Proposal: ProjectProposal_groupXXX-Fa22.ipynb
+* Checkpoint #1: DataCheckpoint_groupXXX-Fa22.ipynb
+* Checkpoint #2: EDACheckpoint_groupXXX-Fa22.ipynb
+* Final Report: FinalProject_groupXXX-Fa22.ipynb
 
 ## Final Project Checklist
 
@@ -85,7 +85,7 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Be sure text included throughout to guide reader
 - [ ] Check to make sure all text and images are visible
 - [ ] Names included
-- [ ] Renamed file : `FinalProject_groupXXX.ipynb`, where 'XXX' is replaced by your group's group number
+- [ ] Renamed file : `FinalProject_groupXXX-Fa22.ipynb`, where 'XXX' is replaced by your group's group number
 
 ### After the course is done:
 - If you checked YES to make project public: the final project notebook (and only that!) will be placed in a repo with the rest of this quarters public reports. This helps future students by providing examples!
