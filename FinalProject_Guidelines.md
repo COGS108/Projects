@@ -53,7 +53,8 @@ The taboo topics in COGS 108 are:
 - movie recommendation system
 - youtube video comments / trending analysis
 - Kickstarter success prediction/analysis
-- prediction of what makes a song popular on Spotify 
+- prediction of what makes a song popular on Spotify
+- political patterns or singling out some individual 
 
 In addition, if a dataset is on the first few pages of Kaggle's dataset list (when sorted for either hotness or number of votes) then try to find something else.
 
