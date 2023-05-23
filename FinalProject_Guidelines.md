@@ -186,7 +186,7 @@ You will be graded on the one group notebook submitted on GitHub in your group's
 
 This single notebook should include all the code you used for all components of the project (cleaning, visualization, analysis). Because we won’t be running the code in your notebook, it is important to make sure your notebook as submitted to GitHub has the code evaluated and outputs present (e.g., plots) so that we can read the project as is.
 
-Submission must be successfully completed by 11:59 PM on the date of your final, and should be self-contained, so that we can evaluate your entire project from the notebook alone. Additionally, each individual group member must complete the team and individual feedback survey.
+Submission must be successfully completed by 11:59 PM on Wednesday, June 14th, and should be self-contained, so that we can evaluate your entire project from the notebook alone. Additionally, each individual group member must complete the team and individual feedback survey.
 
 These notebooks will optionally be opened to the general public, so others may read what you’ve done! You will have the option to opt out of making your project public. 
 
