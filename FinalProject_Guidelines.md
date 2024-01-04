@@ -29,19 +29,25 @@ The broad objectives for the project are to:
 * Implement your analysis choices on the dataset. 
 * Interpret the results of the analyses. 
 * Contextualize those results within a greater scientific and social context, acknowledging and addressing any potential issues related to privacy and ethics. 
+* Effectively communicate your process and findings in written (report) and oral (recorded pressentation) formats.
 * Work effectively to manage a project as part of a team. 
 
-To accomplish this you will work in teams of 4 to 5 students to conceive of and carry out an analysis project. You will find in your future careers the need to work on projects in groupcs frequently. 
+To accomplish this you will work in teams of 4 to 5 students to conceive of and carry out an analysis project. You will find in your future careers the need to work on projects in groups frequently. 
 
 The basic project steps (broken down in more detail below): 
 
-* Find a real world dataset and problem that you believe can be solved with one or more of the techniques we have learned in class. 
-* After selecting a dataset and identifying the goal, write out a proposed analysis plan using template provided and submit it through GitHub for review.
-* Apply the techniques outlined and come up with a result for the dataset that you proposed.
-* Assemble a Jupyter notebook that communicates your hypothesis, methods, and results. Submit this as your final project.
-* Submit feedback about group and individual group members. This is done individually. 
+* Decide on a data science question/topic you and your group mates are really interested in learning more about.
+* **Proposal** Formulate a question and submit a proposal based on this idea, including background research on the topic summarizing what's already been done, a description of the *ideal* (meaning, assuming unlimited resources and access to people/data) dataset would be and ethical considerations
+* Each group will receive specific feedback on their proposal and incorporate that into their first checkpoint
+* **Checkpoint #1**: Groups will identify datasets that can be used to answer either their proposed question OR a new question based on project feedback and/or data availability.
+* **Checkpoint #2**: Carry out EDA on proposed datasets
+* **Final Report & Video**: 
+  * Apply the techniques outlined and come up with a result for the dataset(s) that you've chosen to work with.
+  * Assemble a Jupyter notebook that effectively communicates your entire process. Submit this as your final project report.
+  * Present main findings from your project in a short video. Submit this as your final project video.
+  * Submit feedback about group and individual group members. This is done individually. 
 
-We strongly encourage you to discuss potential project ideas with your TAs and IAs, and/or with the profesoor. This will give us a chance to make sure you’re on the right track even before you submit your draft. 
+We strongly encourage you to discuss potential project ideas with your TAs and IAs, and/or with the Professor. This will give us a chance to make sure you’re on the right track even before you submit your proposal. 
 
 
 ### Taboo topics
@@ -64,9 +70,9 @@ If you use any of these to *support* your main analysis, that is fine. But, it c
 
 ## Project Components 
 
-### Group Project Survey
+### Group Assignment
 
-Each group will submit one Google Form Survey indicating who is in their group, including each member's names, PIDs, and GitHub usernames. These will be used to create the private GitHub repos your group will be using throughout the quarter.
+Groups will be assigned during week 3. You and your groupmates will receive an invitation to a GitHub repo. Please accept this invitation as soon as you see it. It will expire in 7d.
 
 ### Previous Project Review
 
@@ -77,7 +83,7 @@ You will be assigned a project from a previous iteration of the course to review
 
 ### Project Proposal 
 
-The Project Proposal is completed as a group. Your proposal must include the following sections: 
+Your proposal must include the following sections: 
 
 **NAMES**: Be sure to include each member’s name
 
@@ -95,13 +101,12 @@ References can be research publications, but they need not be. Blogs, GitHub rep
 
 **DATA**: Here, you are to *think* about and *describe* the *ideal* dataset (or datasets) you you would need to answer this question:
 
-* What variables would you have? 
-* How would they be stored? 
-* How many observations would you have? 
-* What/who would the observations be? Over what time period? etc.
+* What variables would you have/measure? 
+* On whom/what would they be measured/collected?
+* Is there a specific time period that's important? If yes, describe what the time period is and why.
 * etc.
 
-Note: For the project proposal, you do NOT have to find the actual dataset(s) needed for your project. For the first checkpoint and onward, you will.
+Note: For the project proposal, you do NOT have to find the actual dataset(s) needed for your project. We want you to consider what dataset you would *really* want to answer this question *perfectly*, even if such data do not exist. For the first checkpoint and onward, you will find and work with available data.
 
 **ETHICS & PRIVACY**: Acknowledge and address any ethics & privacy related issues of your question(s), proposed dataset(s), and/or analyses. Use the information provided in lecture to guide your group discussion and thinking. If you need further guidance, check out [Deon's Ethics Checklist](http://deon.drivendata.org/#data-science-ethics-checklist). In particular:
 
@@ -267,6 +272,83 @@ Each individual will submit a short survey providing feedback about their experi
 
 To make sure we are all progressing well toward the end of the project, we are implementing checkpoints this quarter and requiring that your proposal includes a detailed timeline of dates/times for meetings that work for your group.
 
+## Final Project Checklist
+
+Students often ask for a rubric. You can use this checklist to help guide your thinking on the final project. If you check off all the boxes below, you should be in good shape to get a perfect score on your final project.
+
+### Overview, Question & Background
+
+**Overview**:
+- [ ] Write a clear summary of what you did
+- [ ] Briefly describe the results of your project 
+- [ ] Limit overview to 3-4 sentences
+
+**Research Question**:
+- [ ] Include a specific, clear data science question
+- [ ] Make sure what you're measuring (variables) to answer the question is clear
+
+**Background & Prior Work**:
+- [ ] Include a general introduction to your topic
+- [ ] Include explanation of what work has been done previously
+- [ ] Include citations or links to previous work
+
+**Hypothesis**:
+- [ ] Include your team's hypothesis
+- [ ] Ensure that this hypothesis is clear to readers
+- [ ] Explain why you think this will be the outcome (what was your thinking?)
+
+### Dataset(s):
+- [ ] Include an explanation of dataset(s) used (i.e. features/variables included, number of observations, information in dataset)
+- [ ] Source included (if outside dataset(s) being used)
+
+### Data Analysis:
+
+**Data Cleaning & Pre-processing**
+- [ ] Perform Data Cleaning and explain steps taken OR include an explanation as to why data cleaning was unnecessary (how did you determine your dataset was ready to go?)
+- [ ] Dataset actually clean and usable after data wrangling steps carried out
+
+**Data Visualization**:
+- [ ] Include at least three visualizations
+- [ ] Clearly label all axes on plots
+- [ ] Type of all plots appropriate given data displayed
+- [ ] Interpretation of each visualization included in the text
+
+**Data Analysis & Results**:
+- [ ] EDA carried out with explanations of what was done and interpretations of output included
+- [ ] Appropriate analysis performed 
+- [ ] Output of analysis interpreted and interpretation included in notebook
+
+### Privacy/Ethics Considerations:
+- [ ] Thoughtful discussion of ethical concerns included
+- [ ] Ethical concerns consider the whole data science process (question asked, data collected, data being used, the bias in data, analysis, post-analysis, etc.)
+- [ ] How your group handled bias/ethical concerns clearly described
+
+### Conclusion & Discussion:
+- [ ] Clear conclusion (answer to the question being asked) and discussion of results
+- [ ] Limitations of analysis discussed
+- [ ] Does not ramble on beyond providing necessary information
+
+### Video:
+- [ ] Question asked is clear to listeners
+- [ ] Effective visualizations presented
+- [ ] Clear explanations throughout
+- [ ] Take home message clear
+- [ ] Within 3-5 min time limit
+
+### Final Checks:
+- [ ] Edit all text for clarity
+- [ ] Remove all instructions
+- [ ] Be sure text included throughout to guide reader
+- [ ] Check to make sure all text and images are visible
+- [ ] Names included
+- [ ] Renamed file : `FinalProject_groupXXX-Fa22.ipynb`, where 'XXX' is replaced by your group's group number
+
+### After the course is done:
+- If you checked YES to make project public: the final project notebook (and only that!) will be placed in a repo with the rest of this quarters public reports. This helps future students by providing examples!
+- Your project repo will remain available to you in the near future. We cannot guarentee that will always be the case. That repo will never be public.
+- If you would like your own copy of the entire repo you should follow these instructions: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository Once you have done that it is yours forever. You will also be able to control access to the mirror (make it public or private as you would prefer) 
+
+
 ## Advice 
 
 The main pieces of advice are: 
@@ -282,11 +364,6 @@ The main pieces of advice are:
 
 As far as resources go, it is okay to ask other teams what they are doing in terms of sources, presentation plans, and so on. As long as you are not using another team’s work and claiming it as your own, collaboration with classmates is encouraged. If you find a good source of datasets, please share with everyone on Piazza! 
 
-## Previous COGS 108 Final Projects 
-
-See Prof. Voytek’s write-up of excellent class projects from the Spring 2017 instance of COGS 108 [here](https://voyteklab.com/uc-san-diego-data-science-projects/), all of which received perfect scores. 
-
-Additionally, previous projects can be viewed from when this course ran in [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20), [Spring 2020](https://github.com/COGS108/FinalProjects-Sp20), [Fall 2020](https://github.com/COGS108/FinalProjects-Fa20), or [Winter 2021](https://github.com/COGS108/FinalProjects-Wi21). Note first, that these projects are of variable quality and second, that if you get inspiration or code from previous projects, this must be noted in your project, giving attribution to the former groups’ work. 
 
 ## How to Find Datasets 
 
