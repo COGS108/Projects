@@ -6,7 +6,6 @@
 - [Project Overview](#Project-Overview)
   * [Taboo Topics](#Taboo-Topics)
 - [Project Components](#Project-Components)
-  * [Group Project Survey](#Group-Project-Survey)
   * [Previous Project Review](#Previous-Project-Review)
   * [Project Proposal](#Project-Proposal)
   * [Checkpoints](#Checkpoints)
@@ -60,7 +59,18 @@ The taboo topics in COGS 108 are:
 - youtube video comments / trending analysis
 - Kickstarter success prediction/analysis
 - prediction of what makes a song popular on Spotify
-- political patterns or singling out some individual 
+- analysis that singles out a particular individual 
+
+The following datasets from kaggle are also off limits as your main dataset*:
+
+  - [Trending Youtube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
+  - [120 Years of Olympic history: athletes and results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
+  - [Spotify Song Attributes](https://www.kaggle.com/geomack/spotifyclassification)
+  - [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
+  - [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset)
+  - [Student Alcohol Consumption](https://www.kaggle.com/uciml/student-alcohol-consumption)
+
+\*If you think you have a novel idea and *really, really* want to work on one of these topics/datasets, then please reach out to the instruction team and we will let you know if your idea will work.
 
 In addition, if a dataset is on the first few pages of Kaggle's dataset list (when sorted for either hotness or number of votes) then try to find something else.
 
@@ -78,7 +88,7 @@ Groups will be assigned during week 3. You and your groupmates will receive an i
 
 Each group will submit one Google Form Survey reviewing a project from a previous quarter. This will give you a sense of what we're expecting from the project and will give you all a chance to determine what components make for a strong project and where you would have improved the project, so that you can implement these improvements in your project.
 
-You will be assigned a project from a previous iteration of the course to review as a group.
+You will choose a publicly-available project from a previous quarter to review.
 
 
 ### Project Proposal 
@@ -191,7 +201,7 @@ You will be graded on the one group notebook submitted on GitHub in your group's
 
 This single notebook should include all the code you used for all components of the project (cleaning, visualization, analysis). Because we won’t be running the code in your notebook, it is important to make sure your notebook as submitted to GitHub has the code evaluated and outputs present (e.g., plots) so that we can read the project as is.
 
-Submission must be successfully completed by 11:59 PM on Wednesday, June 14th, and should be self-contained, so that we can evaluate your entire project from the notebook alone. Additionally, each individual group member must complete the team and individual feedback survey.
+Submission must be successfully completed by Wednesday of Finals week, and should be self-contained, so that we can evaluate your entire project from the notebook alone. Additionally, each individual group member must complete the team and individual feedback survey.
 
 These notebooks will optionally be opened to the general public, so others may read what you’ve done! You will have the option to opt out of making your project public. 
 
