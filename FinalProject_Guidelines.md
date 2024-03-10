@@ -213,7 +213,7 @@ For sections included in your proposal and previous checkpoints, you can copy an
 
 **PERMISSIONS**: Specify whether you want your group project to be made publicly available. Place an X in the square brackets where appropriate.
 
-**OVERVIEW**: Include 3-4 sentences summarizing your group’s project and results.
+**ABSTRACT**: Include a few sentences to a few paragraphs summarizing your group’s project and results.
 
 **NAMES**: See proposal specifications.
 
