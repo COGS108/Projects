@@ -262,7 +262,7 @@ The grading rubric for the Final Project is as follows:
 
 | Category  | Percentage of Project Grade | 
 |---|---|
-| Overview, Question, & Background | 10 |
+| Abstract, Question, & Background | 10 |
 | Data Description | 5 |
 | Data Cleaning/Processing | 5 |
 | Data Visualization | 15 |
@@ -286,12 +286,12 @@ To make sure we are all progressing well toward the end of the project, we are i
 
 Students often ask for a rubric. You can use this checklist to help guide your thinking on the final project. If you check off all the boxes below, you should be in good shape to get a perfect score on your final project.
 
-### Overview, Question & Background
+### Abstract, Question & Background
 
-**Overview**:
+**Abstract**:
 - [ ] Write a clear summary of what you did
 - [ ] Briefly describe the results of your project 
-- [ ] Limit overview to 3-4 sentences
+- [ ] Limit overview to ~1 paragraph
 
 **Research Question**:
 - [ ] Include a specific, clear data science question
