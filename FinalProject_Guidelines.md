@@ -60,6 +60,7 @@ The taboo topics in COGS 108 are:
 - Kickstarter success prediction/analysis
 - prediction of what makes a song popular on Spotify
 - analysis that singles out a particular individual 
+- AirBnb prediction
 
 The following datasets from kaggle are also off limits as your main dataset*:
 
@@ -255,6 +256,18 @@ Each group will submit a single 3-5 minute video on canvas communicating their g
 All group members must participate in the completion of the video submitted; however, not everyone has to be on screen or talk in the video. How you delegate tasks here is up to the group. 
 
 #### Grading 
+
+**Checkpoints*
+
+Checkpoints will be graded using a very broad rubric. Each rubric item will be graded Exceptional (E), Proficient (P), Developing (D), or Unsatisfactory (U). Full points will be earned for any item that earns E or P. Staff will work to heavily comment so that you know what to fix going forward.
+
+Groups will have the ability to earn back points lost on previous checkpoints during the grading of each subsequent checkpoint. For example, if, when a group submits their second checkpoint, they have lost points on their proposal and first checkpoint, those points can be re-earned during the grading of the second checkpoint.
+
+To indicate to your grader what you have addressed, add a comment to the issue where points were initially lost explaining your changes.
+
+For this process to work, **all grading issues on GitHub must remain open** . Please do not close them.
+
+**Final Report**
 
 Your final project report and video will be graded based on the rubric below. For the report, make sure you address each rubric section in the notebook, in an organized manner, using Markdown cells for textual descriptions. Note that you *can* add subsections or change up the organization, if your project would be clearer with you doing so.
 
