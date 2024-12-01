@@ -47,6 +47,9 @@ Group work isn’t always easy - Team members sometimes cannot prepare for or at
 
 Everyone approaches conflict a little differently. But there are some common themes that might be seen in a person's response again and again. Learning how you approach conflict can be a great opportunity to learn or refine successful conflict resolution. To learn more about your conflict approach, and how it interacts with your teammates approache you can each take this quiz. https://cuboulder.qualtrics.com/jfe/form/SV_6Kkp5kCHt628Zg1
 
+Other helpful resources for dealing with conflict in group projects are https://www.beyondintractability.org/educationtraining/group-projects and https://www.cmu.edu/teaching/solveproblem/strat-groupwork/groupwork-04.html and the citations therein.
+
+
 ### Dealing with problem teammates
 
 Toward the end of the course, you will be sent a survey to evaluate the team’s progress as well as each member in the group’s contributions.  This form will be collected and considered when your grade is calculated at the end of the quarter. People who dont do their fair share will get fewer points, and people who do more than their fair share may get extra points.  Therefore you should be motivated to make sure you are not seen as a slacker by your teammates!
