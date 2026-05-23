@@ -1,6 +1,6 @@
 # COGS108 TEAM POLICIES
 
-Teams sometimes struggle to function as a team rather than a few individuals doing work and everyone else barely helping. The goal of this document is to help you make it more likely that your team works together.
+Teams sometimes struggle to function as a team rather than a few individuals doing work and everyone else barely helping. The goal of this document is to help you make it more likely that your team works together>
 
 ### Organizing a team
 Teams need structure. If people know the structure then they can meet expectations.
@@ -12,7 +12,7 @@ Give your team structure in these ways
 4. Set expectations around tasks.  Will there be specialization (leadership, facilitator/communicator, programming, research, etc)? Or will everyone do a bit of everything? Or a middle ground, where people specialize but rotate roles each week? How will tasks be assigned to people?  How can your whole team see the list of current tasks and see progress on them (GitHub Issues, Kanban board, Trello, Google spreadsheet)?
 5. Make a plan, set a schedule/deadline for each planned item. Keep it updated as the plan changes.
 6. Make a set of policies about what you will do when someone is struggling to deliver something they promised to do.  How should a struggling person contact the group? How soon after they start struggling?  How will the group allocate effort to make up for the issue?
-7. Post these expectations somewhere for all to see.  Most of these are supposed to be part of your project proposal, but it may be helpful to have these in a shared document or something like the #Rules channel on a Discord server
+7. Post these expectations somewhere for all to see.  Most of these are supposed to be part of your project proposal, but it may be helpful to have these in a shared document or something like the #Rules channel on a Discord server.
 
    
 It is very helpful if you address all of these topics in your first meeting!
@@ -38,8 +38,6 @@ I statements can be very helpful when talking with others... "I think this won't
 When someone expresses a criticism of your ideas or work try to understand why they think that way.  Assume that criticism is well-meant.  After all, if someone actually thought that you were personally worthless it wouldn't be worth their time and effort to criticize.  They must at least see the potential for improvement or perhaps the core of something great with a few changes.
 
 It can be very helpful if at least one group member with high emotional IQ tries to take on the role of facilitator... someone who can translate between different cultures... someone who can try to make the quiet people feel safe enough to talk, and who can kindly remind the talkers that they should allow other people time to express themselves.
-
-
 
 ### Dealing with conflict
 
