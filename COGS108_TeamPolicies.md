@@ -34,6 +34,38 @@ While portions of the project can and should be done individually or in pairs (i
 
 Upon submission, the names of every team member who participated actively in completing it should be included on the submission.
 
+### Suggested ways to divide roles
+
+Item 4 under [Organizing a team](#organizing-a-team) asks how your team will divide tasks. Below are a few structures that have worked well for projects like this one. Pick one (or mix and match), write it into the Team Expectations section of your proposal, and revisit it at each checkpoint. Whatever you choose, remember that **everyone still contributes to every aspect of the project** (see above): a "lead" coordinates and makes sure their area gets done well, but does not do all of that work alone.
+
+**1. Rotating roles.** Each person takes one role per submission, and roles rotate at every submission (Proposal → Checkpoint #1 → Checkpoint #2 → Final Report) so everyone does a bit of everything. Example roles:
+
+* *Coordinator*: runs meetings, keeps the task list and deadlines up to date, and makes sure the submission is turned in on time
+* *Data lead*: finding, loading, and cleaning data
+* *Analysis & visualization lead*: EDA, analyses, and figures
+* *Writing lead*: makes sure the text reads clearly from start to finish and that each section explains what was done and why
+* *Reviewer*: checks the submission against the guidelines and [checklist](https://github.com/COGS108/Projects/blob/fa26/FinalProject_Guidelines.md#final-project-checklist), runs the notebook top to bottom, and proofreads
+
+For a 4-person team, combine Coordinator and Reviewer.
+
+| | Proposal | Checkpoint #1 | Checkpoint #2 | Final Report |
+|---|---|---|---|---|
+| Member A | Coordinator | Reviewer | Writing lead | Analysis lead |
+| Member B | Data lead | Coordinator | Reviewer | Writing lead |
+| Member C | Analysis lead | Data lead | Coordinator | Reviewer |
+| Member D | Writing lead | Analysis lead | Data lead | Coordinator |
+| Member E | Reviewer | Writing lead | Analysis lead | Data lead |
+
+**2. Section owners with reviewers.** Each person owns specific sections of the notebook (both the code and the text) and is a second reviewer on someone else's section. For example: Background & Prior Work and Hypothesis; Dataset(s) and Data Cleaning; EDA; Analysis; Ethics & Privacy and Conclusion. Assign sections so that everyone writes some code, and consider swapping ownership between checkpoints.
+
+**3. Split by dataset or sub-question.** If your project combines multiple datasets or has a few sub-questions, pairs (or individuals) can each own one dataset or sub-question end to end: cleaning, EDA, and analysis. Plan regular meetings to bring the pieces together, and agree early on how the datasets will be combined and how shared variables will be named.
+
+**Roles worth assigning regardless of structure**
+
+* *Notebook manager*: Jupyter notebooks are hard to merge on GitHub, and two people editing the same notebook at once often leads to merge conflicts or a broken file. Consider having everyone work in their own scratch notebooks (or branches), with one person responsible for copying finished work into the official notebook (for example, `FinalProject_GroupXXX_FA26.ipynb`). Always pull before you start working and push when you finish.
+* *Facilitator*: see [Communicate well](#communicate-well) below.
+* *Video producer*: coordinates the final video (script, recording, editing) while making sure every member participates.
+
 ### Communicate well
 
 I statements can be very helpful when talking with others... "I think this won't work because... what do you think?" may help more than "This won't work."
