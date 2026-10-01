@@ -100,7 +100,7 @@ Using any of these datasets to *support* your main analysis is fine. They just c
 
 **Exceptions.** If you think you have a novel idea and *really, really* want to work on one of the topics or datasets above, please reach out to the instruction team and we will let you know if your idea will work.
 
-**Not allowed, no exceptions:** any analysis that singles out a particular individual.
+**Not allowed, no exceptions:** any analysis that singles out a particular individual (who is not a public figure).
 
 ### Data Requirements
 
@@ -468,7 +468,6 @@ Here is a list of potential locations to find datasets and problems to investiga
 * [Data.gov](https://catalog.data.gov/dataset)
 * [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 * [UCSD Datasets](https://ucsd.libguides.com/data-statistics/home)
-* [Datasets | Deep Learning](http://deeplearning.net/datasets/)
 * [Stanford | Social Science Data Collection](https://data.stanford.edu/)
 * [Eviction Lab (email required)](https://evictionlab.org/get-the-data/)
 * [San Diego Data](https://data.sandiego.gov/)
@@ -477,10 +476,9 @@ Here is a list of potential locations to find datasets and problems to investiga
 * [Data and Story Library](https://dasl.datadescription.com/datafiles/)
 * [UCSD behavioral mobile data](http://extrasensory.ucsd.edu/)
 * [Kaggle](https://www.kaggle.com/)
-* [FiveThirtyEight](https://data.fivethirtyeight.com/)
+* [FiveThirtyEight](https://data.fivethirtyeight.com/) [still works, but note shut down in 2025]
 * [data.world](https://data.world/)
 * [Free Datasets - R and Data Mining](http://www.rdatamining.com/resources/data)
-* [Data Sources for Cool Data Science Projects](https://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/)
 
 </details>
 
