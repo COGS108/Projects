@@ -464,20 +464,42 @@ Eventually you will all have to decide on a problem to tackle, with each member 
 
 Here is a list of potential locations to find datasets and problems to investigate. If you have another dataset or search location, that is great!
 
+**Search engines & large repositories**
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst)
+* [Kaggle](https://www.kaggle.com/)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
+* [Hugging Face Datasets](https://huggingface.co/datasets) (text, image, and audio data; good for NLP projects)
+* [data.world](https://data.world/)
+
+**Curated collections** (great for finding less common topics)
+* [TidyTuesday](https://github.com/rfordatascience/tidytuesday) (a new, already-cleaned dataset every week)
+* [Data Is Plural](https://www.data-is-plural.com/archive) (weekly newsletter archive; also available as a [spreadsheet](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0))
+* [Data and Story Library](https://dasl.datadescription.com/datafiles/)
+* [FiveThirtyEight](https://data.fivethirtyeight.com/) (no longer updated: FiveThirtyEight shut down in 2025, but its existing datasets are still available)
+
+**Government & economic data**
 * [Data.gov](https://catalog.data.gov/dataset)
-* [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
-* [UCSD Datasets](https://ucsd.libguides.com/data-statistics/home)
+* [US Census](https://www.census.gov/)
+* [California Open Data](https://data.ca.gov/)
+* [San Diego Data](https://data.sandiego.gov/)
+* [World Bank Open Data](https://data.worldbank.org/)
+* [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/)
+
+**Social science & survey data**
+* [IPUMS](https://www.ipums.org/) (census and survey microdata; free account required)
+* [ICPSR](https://www.icpsr.umich.edu/) (large social science data archive; free account required, and some data are restricted to member institutions)
+* [Pew Research Center Datasets](https://www.pewresearch.org/datasets/)
 * [Stanford | Social Science Data Collection](https://data.stanford.edu/)
 * [Eviction Lab (email required)](https://evictionlab.org/get-the-data/)
-* [San Diego Data](https://data.sandiego.gov/)
-* [US Census](https://www.census.gov/)
+
+**Science, health & environment**
+* [Our World in Data](https://ourworldindata.org/) (global health, economic, and environmental indicators; every chart can be downloaded as CSV)
 * [Open Climate Data](http://openclimatedata.net/)
-* [Data and Story Library](https://dasl.datadescription.com/datafiles/)
 * [UCSD behavioral mobile data](http://extrasensory.ucsd.edu/)
-* [Kaggle](https://www.kaggle.com/)
-* [FiveThirtyEight](https://data.fivethirtyeight.com/) [still works, but note shut down in 2025]
-* [data.world](https://data.world/)
+
+**More lists of data sources**
+* [UCSD Datasets](https://ucsd.libguides.com/data-statistics/home) (UC San Diego Library guide)
 * [Free Datasets - R and Data Mining](http://www.rdatamining.com/resources/data)
 
 </details>
