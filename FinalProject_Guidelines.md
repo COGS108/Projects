@@ -28,7 +28,7 @@ The broad objectives for the project are to:
 * Implement your analysis choices on the dataset. 
 * Interpret the results of the analyses. 
 * Contextualize those results within a greater scientific and social context, acknowledging and addressing any potential issues related to privacy and ethics. 
-* Effectively communicate your process and findings in written (report) and oral (recorded pressentation) formats.
+* Effectively communicate your process and findings in written (report) and oral (recorded presentation) formats.
 * Work effectively to manage a project as part of a team. 
 
 To accomplish this you will work in teams of 4 to 5 students to conceive of and carry out an analysis project. You will find in your future careers the need to work on projects in groups frequently. 
@@ -213,7 +213,7 @@ For sections included in your proposal and previous checkpoints, you can copy an
 
 **PERMISSIONS**: Specify whether you want your group project to be made publicly available. Place an X in the square brackets where appropriate.
 
-**ABSTRACT**: Include a few sentences to a few paragraphs summarizing your group’s project and results.
+**ABSTRACT**: Include ~1 paragraph summarizing your group’s project and results.
 
 **NAMES**: See proposal specifications.
 
@@ -256,13 +256,13 @@ All group members must participate in the completion of the video submitted; how
 
 #### Grading 
 
-**Checkpoints*
+**Checkpoints**
 
 Checkpoints will be graded using a very broad rubric. Each rubric item will be graded Exceptional (E), Proficient (P), Developing (D), or Unsatisfactory (U). Full points will be earned for any item that earns E or P. Staff will work to heavily comment so that you know what to fix going forward.
 
 Groups will have the ability to earn back points lost on the previous checkpoint during the grading of the subsequent checkpoint. For example, points lost on the proposal can be earned back on the first checkpoint. However, points lost on the proposal that remain a deduction on the first checkpoint, can no longer be earned back on the second checkpoint.
 
-To indicate to your grader what you have addressed in each submission from the prior psubmission, add a comment to the issue where points were initially lost explaining your changes.
+To indicate to your grader what you have addressed in each submission from the prior submission, add a comment to the issue where points were initially lost explaining your changes.
 
 For this process to work, **all grading issues on GitHub must remain open** . Please do not close them.
 
@@ -303,7 +303,7 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 **Abstract**:
 - [ ] Write a clear summary of what you did
 - [ ] Briefly describe the results of your project 
-- [ ] Limit overview to ~1 paragraph
+- [ ] Limit abstract to ~1 paragraph
 
 **Research Question**:
 - [ ] Include a specific, clear data science question
@@ -363,11 +363,11 @@ Students often ask for a rubric. You can use this checklist to help guide your t
 - [ ] Be sure text included throughout to guide reader
 - [ ] Check to make sure all text and images are visible
 - [ ] Names included
-- [ ] Renamed file : `FinalProject_groupXXX-Fa22.ipynb`, where 'XXX' is replaced by your group's group number
+- [ ] Renamed file : `FinalProject_groupXXX-Fa26.ipynb`, where 'XXX' is replaced by your group's group number
 
 ### After the course is done:
 - If you checked YES to make project public: the final project notebook (and only that!) will be placed in a repo with the rest of this quarters public reports. This helps future students by providing examples!
-- Your project repo will remain available to you in the near future. We cannot guarentee that will always be the case. That repo will never be public.
+- Your project repo will remain available to you in the near future. We cannot guarantee that will always be the case. That repo will never be public.
 - If you would like your own copy of the entire repo you should follow these instructions: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository Once you have done that it is yours forever. You will also be able to control access to the mirror (make it public or private as you would prefer) 
 
 

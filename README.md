@@ -4,17 +4,17 @@ Materials for the Project in COGS108.
 
 ## Project Documentation 
 
-* [Project Guidelines](https://github.com/COGS108/Projects/blob/wi25/FinalProject_Guidelines.md)
-* [Team Policies](https://github.com/COGS108/Projects/blob/wi25/COGS108_TeamPolicies.md)
+* [Project Guidelines](https://github.com/COGS108/Projects/blob/fa26/FinalProject_Guidelines.md)
+* [Team Policies](https://github.com/COGS108/Projects/blob/fa26/COGS108_TeamPolicies.md)
 
 ## Project Templates
 
 Templates will be provided in your group's project repo.
 
-* Proposal: ProjectProposal_groupXXX-Wi25.ipynb
-* Checkpoint #1: DataCheckpoint_groupXXX-Wi25.ipynb
-* Checkpoint #2: EDACheckpoint_groupXXX-Wi25.ipynb
-* Final Report: FinalProject_groupXXX-Wi25.ipynb
+* Proposal: ProjectProposal_groupXXX-Fa26.ipynb
+* Checkpoint #1: DataCheckpoint_groupXXX-Fa26.ipynb
+* Checkpoint #2: EDACheckpoint_groupXXX-Fa26.ipynb
+* Final Report: FinalProject_groupXXX-Fa26.ipynb
 
 
 ---
