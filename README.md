@@ -9,12 +9,12 @@ Materials for the Project in COGS108.
 
 ## Project Templates
 
-Templates will be provided in your group's project repo.
+Templates will be provided in your group's project repo, where `XXX` is your three-digit group number.
 
-* Proposal: ProjectProposal_groupXXX-Fa26.ipynb
-* Checkpoint #1: DataCheckpoint_groupXXX-Fa26.ipynb
-* Checkpoint #2: EDACheckpoint_groupXXX-Fa26.ipynb
-* Final Report: FinalProject_groupXXX-Fa26.ipynb
+* Proposal: ProjectProposal_GroupXXX_FA26.ipynb
+* Checkpoint #1: DataCheckpoint_GroupXXX_FA26.ipynb
+* Checkpoint #2: EDACheckpoint_GroupXXX_FA26.ipynb
+* Final Report: FinalProject_GroupXXX_FA26.ipynb
 
 
 ---
