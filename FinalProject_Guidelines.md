@@ -191,6 +191,10 @@ Your second checkpoint must include the following sections (Note that these *can
   
 At the end of this checkpoint, it should be clear that you know your data well. Note that visualizations do not have to be perfect (yet!), but they do have to be appropriate and interpreted. Include explanations of what you learn from each visualization generated.
 
+### Oral Exam
+
+Each group will take an oral exam during Lecture time in week 10 as a group. Each group will sign up for a specific oral exam slot with their TA before week 10. For each oral exam, each group member will be asked to answer a few questions about their project (up to and including work in the EDA checkpoint). TAs will choose which group member will answer which question. As such, each individual group member must be familiar with the entire project. 
+
 ### Final Project 
 
 Time to put it all together! The main products of the final project are 1) a report submitted as single Jupyter Notebook on GitHub and 2) a 3-5 minute video communicating your group project. 
@@ -268,27 +272,14 @@ For this process to work, **all grading issues on GitHub must remain open** . Pl
 
 **Final Report**
 
-Your final project report and video will be graded based on the rubric below. For the report, make sure you address each rubric section in the notebook, in an organized manner, using Markdown cells for textual descriptions. Note that you *can* add subsections or change up the organization, if your project would be clearer with you doing so.
-
-The grading rubric for the Final Project is as follows: 
-
-| Category  | Percentage of Project Grade | 
-|---|---|
-| Abstract, Question, & Background | 10 |
-| Data Description | 5 |
-| Data Cleaning/Processing | 5 |
-| Data Visualization | 15 |
-| Data Analysis & Results | 25 |
-| Ethics & Privacy | 10 |
-| Conclusion & Discussion | 10 |
-| Written Communication | 10   | 
-| Oral Communication (video) |  10 | 
+Your final project report and video will be graded using a rubric that checks the content throughout your report for correctness, clarity, and overall effective communication. 
 
 **Note**: Individual grades can be adjusted based on the feedback provided in individual surveys submitted. This means that team members in the same group can receive different scores from one another, if evaluations suggest that contributions were not evenly distributed. To avoid this, work together as a group and ensure that you’re contributing to the project.
 
 ### Team Evaluation
 
 Each individual will submit a short survey providing feedback about their experience with the COGS 108 project and working with their team.  The professor will be the only person to see this feedback and will use this information when deciding individual grades. 
+
 
 ### Timeline 
 
