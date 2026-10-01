@@ -154,7 +154,7 @@ Groups will identify datasets that can be used to answer either their proposed q
 
 Your second checkpoint must include the following sections. (These *can* be the same as in your proposal/Checkpoint #1; however, if you've made any changes/edits/incorporated feedback, you should update them.)
 
-[Names](#names) · [Research Question](#research-question) · [Setup](#setup) · [Data Cleaning](#data-cleaning) · [Data Analysis & Results](#data-analysis--results) (EDA only)
+[Names](#names) · [Research Question](#research-question) · [Dataset(s)](#datasets) · [Setup](#setup) · [Data Cleaning](#data-cleaning) · [Data Analysis & Results](#data-analysis--results) (EDA only)
 
 At the end of this checkpoint, it should be clear that you know your data well. Note that visualizations do not have to be perfect (yet!), but they do have to be appropriate and interpreted. Include explanations of what you learn from each visualization generated.
 
@@ -209,7 +209,7 @@ Each submission notebook is made up of the sections below. This table shows whic
 | [Background & Prior Work](#background--prior-work) | ✓ | | | ✓ |
 | [Hypothesis](#hypothesis) | ✓ | | | ✓ |
 | [Data (Ideal Dataset)](#data-ideal-dataset) | ✓ | | | |
-| [Dataset(s)](#datasets) | | ✓ | | ✓ |
+| [Dataset(s)](#datasets) | | ✓ | ✓ | ✓ |
 | [Setup](#setup) | | ✓ | ✓ | ✓ |
 | [Data Cleaning](#data-cleaning) | | ✓ | ✓ | ✓ |
 | [Data Analysis & Results](#data-analysis--results) | | | EDA | EDA + Analysis |
@@ -259,7 +259,7 @@ Note: For the project proposal, you do NOT have to find the actual dataset(s) ne
 
 ### Dataset(s)
 
-*Checkpoint #1, Final Report.* What data will you use to answer your question? Describe the dataset(s) in terms of number of observations, what kind of features it contains, etc. (Typically students have datasets of ~1000 observations across their datasets. This is not a requirement, but is good to know around the scale of data we're expecting.) You are welcome (and in fact recommended) to find multiple datasets! If you do so, describe each one, and briefly explain how you will combine them together. Include the source of the dataset in the description here.
+*Checkpoints #1 and #2, Final Report.* What data will you use to answer your question? Describe the dataset(s) in terms of number of observations, what kind of features it contains, etc. (Typically students have datasets of ~1000 observations across their datasets. This is not a requirement, but is good to know around the scale of data we're expecting.) You are welcome (and in fact recommended) to find multiple datasets! If you do so, describe each one, and briefly explain how you will combine them together. Include the source of the dataset in the description here.
 
 ### Setup
 
@@ -441,7 +441,7 @@ As far as resources go, it is okay to ask other teams what they are doing in ter
 
 ### Previous COGS 108 Final Projects
 
-See Prof. Voytek's write-up of excellent class projects from the Spring 2017 instance of COGS 108 [here](https://voyteklab.com/uc-san-diego-data-science-projects/), all of which received perfect scores.
+See Prof. Voytek's write-up of excellent class projects from the Spring 2017 instance of COGS 108 [here](https://voyteklab.com/data%20science/data-projects/), all of which received perfect scores.
 
 Additionally, previous projects can be viewed from when this course ran in [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20), [Spring 2020](https://github.com/COGS108/FinalProjects-Sp20), [Fall 2020](https://github.com/COGS108/FinalProjects-Fa20), [Winter 2021](https://github.com/COGS108/FinalProjects-Wi21), [Spring 2023](https://github.com/COGS108/FinalProjects-Sp23), [Winter 2024](https://github.com/COGS108/FinalProjects-Wi24), [Winter 2025](https://github.com/COGS108/FinalProjects-Wi25). Note first, that these projects are of variable quality and second, that if you get inspiration or code from previous projects, this must be noted in your project, giving attribution to the former groups' work.
 
