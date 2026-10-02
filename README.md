@@ -9,13 +9,14 @@ Materials for the Project in COGS108.
 
 ## Project Templates
 
-Templates will be provided in your group's project repo, where `XXX` is your three-digit group number.
+Templates will be provided in your group's project repo. The numbers give the order things are due, and you'll be graded on these four notebooks:
 
-* Proposal: ProjectProposal_GroupXXX_FA26.ipynb
-* Checkpoint #1: DataCheckpoint_GroupXXX_FA26.ipynb
-* Checkpoint #2: EDACheckpoint_GroupXXX_FA26.ipynb
-* Final Report: FinalProject_GroupXXX_FA26.ipynb
+* Proposal: `00-ProjectProposal.ipynb`
+* Checkpoint #1: `01-DataCheckpoint.ipynb`
+* Checkpoint #2: `02-EDACheckpoint.ipynb`
+* Final Report (with a link to your video): `03-FinalProject.ipynb`
 
+See [Your Group Repo](https://github.com/COGS108/Projects/blob/fa26/FinalProject_Guidelines.md#your-group-repo) in the Project Guidelines for how the rest of the repo (`data/`, `modules/`, `results/`) is organized.
 
 ---
 ## License 
