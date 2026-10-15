@@ -170,7 +170,7 @@ Each group will submit one Google Form Survey reviewing a project from a previou
 
 The Project Proposal is completed as a group. It must include the following sections:
 
-[Authors](#authors) · [Research Question](#research-question) · [Background and Prior Work](#background-and-prior-work) · [Hypothesis](#hypothesis) · [Data](#data) · [Ethics](#ethics) · [Team Expectations](#team-expectations) · [Project Timeline](#project-timeline) · [AI and Outside Help](#ai-and-outside-help)
+[Authors](#authors) · [Research Question](#research-question) · [Background and Prior Work](#background-and-prior-work) · [Hypothesis](#hypothesis) · [Data](#data) · [Ethics](#ethics) · [Team Expectations](#team-expectations) · [Teammate Roles](#teammate-roles) · [Project Timeline](#project-timeline) · [AI and Outside Help](#ai-and-outside-help)
 
 If you think you will need any special resources or training outside what we have covered in COGS 108 to solve your problem, then your proposal should state these clearly. For example, if you have selected a problem that involves implementing multiple neural networks, please state this so we can make sure you know what you're doing and so we can point you to resources you will need to implement your project. Note that you are not required to use outside methods.
 
@@ -273,6 +273,7 @@ Each notebook template already contains these sections, with instructions in eac
 | [Analyses](#analyses) | | | | ✓ |
 | [Ethics](#ethics) | ✓ | ✓ | ✓ | ✓ |
 | [Team Expectations](#team-expectations) | ✓ | ✓ | ✓ | |
+| [Teammate Roles](#teammate-roles) | ✓ | | | |
 | [Project Timeline](#project-timeline) | ✓ | ✓ (updated) | ✓ (updated) | |
 | [Discussion and Conclusion](#discussion-and-conclusion) | | | | ✓ |
 | [AI and Outside Help](#ai-and-outside-help) | ✓ | ✓ | ✓ | ✓ (whole project) |
@@ -402,6 +403,10 @@ As your project progresses, update this section with what you actually did to ta
 ### Team Expectations
 
 *Proposal and Checkpoints.* Read over the [COGS108 Team Policies](https://github.com/COGS108/Projects/blob/fa26/COGS108_TeamPolicies.md) individually. Then, include your group's expectations of one another for successful completion of your COGS108 project. Discuss and agree on what all of your expectations are. Discuss how your team will communicate throughout the quarter and consider how you will communicate respectfully should conflicts arise. By including each member's name above and by adding their name to the submission, you are indicating that you have read the COGS108 Team Policies, accept your team's expectations, and have every intention to fulfill them. These expectations are for your team's use and benefit — they won't be graded for their details.
+
+### Teammate Roles
+
+*Proposal.* You are not required to assign formal roles, but it may be worth discussing each member's strengths (e.g., coding, writing, finding and cleaning data, statistics, visualization, keeping the group organized, knowledge of your topic area) and considering what role each member might play on your team. The [Suggested ways to divide roles](https://github.com/COGS108/Projects/blob/fa26/COGS108_TeamPolicies.md#suggested-ways-to-divide-roles) section of the COGS108 Team Policies describes a few structures that have worked well. Roles can be shared and can change over the quarter, and taking on a role in an area you'd like to grow in is a great way to learn. Whatever you decide, every member is still responsible for understanding every part of the project. If your group decides not to assign roles, briefly note the strengths you discussed and how you plan to share the work. These notes are for your team's use and benefit — they won't be graded for their details.
 
 ### Project Timeline
 
